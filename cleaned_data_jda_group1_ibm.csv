@@ -1,0 +1,1471 @@
+,JobLevel,TotalWorkingYears,YearsAtCompany,YearsSinceLastPromotion,YearsWithCurrManager,YearsInCurrentRole,Age,Attrition,JobRole,EducationField,MonthlyIncome
+0,2,8,6,0,5,4,41,yes,sales executive,life sciences,5993
+1,2,10,10,1,7,7,49,no,research scientist,life sciences,5130
+2,1,7,0,0,0,0,37,yes,laboratory technician,other,2090
+3,1,8,8,3,0,7,33,no,research scientist,life sciences,2909
+4,1,6,2,2,2,2,27,no,laboratory technician,medical,3468
+5,1,8,7,3,6,7,32,no,laboratory technician,life sciences,3068
+6,1,12,1,0,0,0,59,no,laboratory technician,medical,2670
+7,1,1,1,0,0,0,30,no,laboratory technician,life sciences,2693
+8,3,10,9,1,8,7,38,no,manufacturing director,life sciences,9526
+9,2,17,7,7,7,7,36,no,healthcare representative,medical,5237
+10,1,6,5,0,3,4,35,no,laboratory technician,medical,2426
+11,2,10,9,0,8,5,29,no,laboratory technician,life sciences,4193
+12,1,5,5,4,3,2,31,no,research scientist,life sciences,2911
+13,1,3,2,1,2,2,34,no,laboratory technician,medical,2661
+14,1,6,4,0,3,2,28,yes,laboratory technician,life sciences,2028
+15,3,10,10,8,8,9,29,no,manufacturing director,life sciences,9980
+16,1,7,6,0,5,2,32,no,research scientist,life sciences,3298
+17,1,1,1,0,0,0,22,no,laboratory technician,medical,2935
+18,4,31,25,3,7,8,53,no,manager,life sciences,15427
+19,1,6,3,1,2,2,38,no,research scientist,life sciences,3944
+20,2,5,4,1,3,2,24,no,manufacturing director,other,4011
+21,1,10,5,0,3,3,36,yes,sales representative,life sciences,3407
+22,3,13,12,2,11,6,34,no,research director,life sciences,11994
+23,1,0,0,0,0,0,21,no,research scientist,life sciences,1232
+24,1,8,4,1,3,2,34,yes,research scientist,medical,2960
+25,5,26,14,4,8,13,53,no,manager,other,19094
+26,1,10,10,6,7,2,32,yes,research scientist,life sciences,3919
+27,2,10,9,4,2,7,42,no,sales executive,marketing,6825
+28,3,24,22,5,17,6,44,no,healthcare representative,medical,10248
+29,5,22,2,2,1,2,46,no,manager,marketing,18947
+30,1,7,1,0,0,1,33,no,laboratory technician,medical,2496
+31,2,9,4,1,3,2,44,no,healthcare representative,other,6465
+32,1,10,10,1,8,0,30,no,laboratory technician,medical,2206
+33,2,19,1,0,0,0,39,yes,sales representative,technical degree,2086
+34,1,6,2,2,0,0,24,yes,research scientist,medical,2293
+35,1,6,5,1,4,3,43,no,research scientist,medical,2645
+36,1,3,3,0,2,2,50,yes,sales representative,marketing,2683
+37,1,2,2,2,2,2,35,no,sales representative,marketing,2014
+38,1,6,1,0,0,1,36,no,research scientist,life sciences,3419
+39,2,10,5,1,3,3,33,no,sales executive,life sciences,5376
+40,1,1,1,0,0,0,35,no,laboratory technician,other,1951
+41,1,1,1,0,0,0,27,no,laboratory technician,life sciences,2341
+42,1,1,1,0,1,0,26,yes,laboratory technician,life sciences,2293
+43,3,9,9,1,7,8,27,no,sales executive,life sciences,8726
+44,2,12,12,3,7,8,30,no,laboratory technician,medical,4011
+45,5,23,22,15,8,15,41,yes,research director,technical degree,19545
+46,2,10,9,8,7,5,34,no,sales executive,marketing,4568
+47,1,8,1,0,0,0,37,no,research scientist,life sciences,3022
+48,2,14,9,0,8,6,46,no,sales executive,marketing,5772
+49,1,1,1,0,1,0,35,no,laboratory technician,life sciences,2269
+50,3,23,1,0,0,0,48,yes,laboratory technician,life sciences,5381
+51,1,2,2,2,2,2,28,yes,laboratory technician,technical degree,3441
+52,2,9,4,1,3,3,44,no,sales executive,marketing,5454
+53,3,10,4,2,3,0,35,no,healthcare representative,medical,9884
+54,2,5,2,0,0,2,26,no,sales executive,marketing,4157
+55,3,15,15,8,12,14,33,no,research director,life sciences,13458
+56,3,9,9,1,8,8,35,no,sales executive,life sciences,9069
+57,1,4,2,2,2,2,35,no,laboratory technician,medical,4014
+58,2,10,7,1,7,7,31,no,laboratory technician,life sciences,5915
+59,2,7,7,0,7,5,37,no,manufacturing director,life sciences,5993
+60,2,9,9,7,8,8,32,no,manufacturing director,medical,6162
+61,2,10,10,9,9,3,38,no,laboratory technician,life sciences,2406
+62,5,29,27,13,8,3,50,no,research director,medical,18740
+63,3,28,21,7,9,16,59,no,sales executive,life sciences,7637
+64,3,17,17,12,8,14,36,no,healthcare representative,technical degree,10096
+65,4,21,5,0,2,0,55,no,manager,medical,14756
+66,2,6,6,0,3,5,36,no,manufacturing director,life sciences,6499
+67,3,25,1,0,0,0,45,no,research scientist,life sciences,9724
+68,1,5,3,1,2,2,35,no,research scientist,medical,2194
+69,1,2,1,0,0,0,36,yes,research scientist,medical,3388
+70,2,20,4,1,3,3,59,no,sales executive,life sciences,5473
+71,1,6,5,0,4,4,29,no,research scientist,life sciences,2703
+72,1,1,1,1,0,1,31,no,research scientist,medical,2501
+73,2,10,10,0,9,4,32,no,research scientist,life sciences,6220
+74,1,5,1,0,0,0,36,no,laboratory technician,life sciences,3038
+75,2,11,11,1,8,7,31,no,manufacturing director,life sciences,4424
+76,2,16,15,2,8,13,35,no,sales executive,marketing,4312
+77,3,17,0,0,0,0,45,no,research director,other,13245
+78,3,16,5,0,2,2,37,no,research director,medical,13664
+79,2,16,4,0,2,2,46,no,human resources,medical,5021
+80,2,10,10,3,0,8,30,no,laboratory technician,life sciences,5126
+81,1,6,6,0,4,4,35,no,research scientist,medical,2859
+82,3,24,1,1,0,0,55,no,sales executive,life sciences,10239
+83,2,17,13,1,9,11,38,no,research scientist,medical,5329
+84,2,5,5,1,3,2,34,no,manufacturing director,medical,4325
+85,3,37,6,0,2,4,56,no,manufacturing director,life sciences,7260
+86,1,3,0,0,0,0,23,no,sales representative,technical degree,2322
+87,1,10,4,0,3,2,51,no,laboratory technician,life sciences,2075
+88,2,11,11,10,8,10,30,no,healthcare representative,life sciences,4152
+89,3,9,9,4,7,8,46,yes,sales executive,medical,9619
+90,4,22,22,11,11,3,40,no,healthcare representative,life sciences,13503
+91,2,11,10,1,0,7,51,no,sales executive,marketing,5441
+92,2,11,11,2,7,8,30,no,sales executive,medical,5209
+93,3,21,10,9,5,9,46,no,healthcare representative,medical,10673
+94,2,12,11,5,7,8,32,no,sales executive,medical,5010
+95,3,16,4,0,3,3,54,no,research director,technical degree,13549
+96,2,4,3,0,2,2,24,no,sales executive,other,4999
+97,2,5,5,0,4,4,28,no,sales executive,medical,4221
+98,4,38,37,1,8,10,58,no,sales executive,medical,13872
+99,2,17,3,1,2,2,44,no,laboratory technician,medical,2042
+100,1,7,3,0,2,2,37,yes,human resources,human resources,2073
+101,1,1,1,0,0,0,32,no,research scientist,life sciences,2956
+102,1,1,1,1,0,0,20,yes,laboratory technician,life sciences,2926
+103,2,16,16,2,10,13,34,no,research scientist,other,4809
+104,2,17,1,0,0,0,37,no,healthcare representative,life sciences,5163
+105,5,30,3,2,2,2,59,no,manager,human resources,18844
+106,5,28,8,0,7,3,50,no,research director,life sciences,18172
+107,2,6,6,0,3,4,25,yes,sales executive,marketing,5744
+108,1,2,2,2,1,2,25,no,research scientist,medical,2889
+109,1,1,0,0,0,0,22,no,laboratory technician,medical,2871
+110,3,23,13,12,8,12,51,no,healthcare representative,medical,7484
+111,2,9,9,0,6,7,34,yes,laboratory technician,life sciences,6074
+112,4,23,5,4,4,3,54,no,manager,human resources,17328
+113,1,6,5,1,2,3,24,no,laboratory technician,life sciences,2774
+114,2,12,1,0,0,0,34,no,research scientist,life sciences,4505
+115,3,12,5,1,3,3,37,no,sales executive,life sciences,7428
+116,3,14,11,5,8,10,34,no,manager,medical,11631
+117,3,10,9,2,8,7,36,no,sales executive,technical degree,9738
+118,1,7,1,0,0,0,36,no,laboratory technician,life sciences,2835
+119,4,25,25,4,12,12,43,no,manager,life sciences,16959
+120,1,10,10,0,9,7,30,no,research scientist,life sciences,2613
+121,2,8,7,0,7,7,33,no,sales executive,marketing,6146
+122,1,7,5,4,3,4,56,yes,research scientist,life sciences,4963
+123,5,23,20,15,15,18,51,no,research director,life sciences,19537
+124,2,12,7,7,7,7,31,yes,sales executive,life sciences,6172
+125,1,5,5,4,3,4,26,no,research scientist,other,2368
+126,3,40,40,15,6,10,58,yes,healthcare representative,medical,10312
+127,1,0,0,0,0,0,19,yes,sales representative,marketing,1675
+128,1,3,2,2,1,1,22,no,laboratory technician,technical degree,2523
+129,2,16,15,5,11,11,49,no,manufacturing director,medical,6567
+130,1,18,3,1,2,2,43,no,research scientist,medical,4739
+131,3,16,2,2,1,2,50,no,sales executive,marketing,9208
+132,2,4,2,2,2,2,31,yes,sales executive,life sciences,4559
+133,3,12,9,0,7,7,41,no,sales executive,life sciences,8189
+134,1,8,8,5,7,7,26,no,human resources,life sciences,2942
+135,2,7,3,0,1,2,36,no,manufacturing director,medical,4941
+136,3,18,4,0,3,2,51,yes,manufacturing director,life sciences,10650
+137,2,17,15,5,9,11,39,no,sales executive,life sciences,5902
+138,2,6,2,2,2,2,25,no,sales executive,life sciences,8639
+139,2,12,11,4,7,9,30,no,human resources,human resources,6347
+140,1,10,5,0,4,4,32,yes,laboratory technician,medical,4200
+141,1,9,6,0,3,5,45,no,research scientist,medical,3452
+142,2,19,3,2,2,2,38,no,research scientist,technical degree,4317
+143,1,5,5,0,4,4,30,no,research scientist,life sciences,2632
+144,2,9,8,0,7,7,32,no,sales executive,medical,4668
+145,1,8,3,2,2,2,30,no,research scientist,technical degree,3204
+146,1,6,5,1,2,3,30,no,laboratory technician,medical,2720
+147,4,21,7,7,7,6,41,no,manager,life sciences,17181
+148,1,7,5,1,4,0,41,no,laboratory technician,life sciences,2238
+149,1,1,1,0,0,0,19,no,laboratory technician,medical,1483
+150,2,20,20,2,13,7,40,no,research scientist,medical,5605
+151,3,10,10,0,6,8,35,no,sales executive,marketing,7295
+152,2,13,7,4,5,7,53,no,sales representative,marketing,2306
+153,2,20,17,0,15,9,45,no,laboratory technician,life sciences,2348
+154,3,9,9,3,7,8,32,no,sales executive,marketing,8998
+155,2,10,10,0,9,7,29,no,manufacturing director,technical degree,4319
+156,2,10,1,0,0,0,51,no,manufacturing director,medical,6132
+157,1,9,1,0,0,0,58,no,research scientist,medical,3346
+158,3,15,12,2,11,11,40,no,sales executive,marketing,10855
+159,1,6,4,1,2,3,34,no,sales representative,marketing,2231
+160,1,2,2,2,2,2,22,no,research scientist,medical,2323
+161,1,6,2,2,2,2,27,no,research scientist,medical,2024
+162,1,5,5,0,2,2,28,no,research scientist,medical,2713
+163,3,12,5,1,4,3,57,no,healthcare representative,life sciences,9439
+164,1,1,1,0,1,1,27,no,research scientist,medical,2566
+165,5,21,5,4,4,4,50,no,manager,life sciences,19926
+166,1,13,9,1,8,8,41,no,research scientist,life sciences,2451
+167,3,12,10,7,4,9,30,no,sales executive,life sciences,9419
+168,2,12,8,0,7,3,38,no,sales executive,life sciences,8686
+169,1,8,5,1,4,4,32,no,research scientist,life sciences,3038
+170,1,6,5,1,1,2,27,no,research scientist,technical degree,3058
+171,1,1,0,0,0,0,19,yes,sales representative,technical degree,2325
+172,1,13,8,7,2,7,36,no,laboratory technician,medical,2088
+173,2,12,12,6,10,9,30,no,laboratory technician,medical,3072
+174,2,9,5,0,3,4,45,no,sales executive,life sciences,5006
+175,1,19,2,2,2,2,56,no,research scientist,life sciences,4257
+176,1,4,3,0,2,1,33,no,research scientist,life sciences,2500
+177,1,1,1,1,0,0,19,yes,laboratory technician,life sciences,1102
+178,3,24,24,15,7,13,46,no,sales executive,marketing,10453
+179,1,2,2,2,1,2,38,no,laboratory technician,life sciences,2288
+180,1,7,4,0,2,2,31,no,research scientist,medical,3929
+181,1,9,3,1,2,2,34,no,research scientist,medical,2311
+182,1,4,4,0,2,3,41,yes,sales representative,marketing,3140
+183,1,5,3,0,2,2,50,no,laboratory technician,medical,3690
+184,2,5,4,1,3,2,53,no,manufacturing director,medical,4450
+185,1,8,8,1,6,7,33,no,research scientist,medical,2756
+186,5,21,20,9,9,8,40,no,manager,medical,19033
+187,5,36,24,2,15,15,55,no,research director,medical,18722
+188,2,10,10,1,9,9,34,no,manufacturing director,life sciences,9547
+189,4,21,7,1,0,7,51,no,healthcare representative,medical,13734
+190,5,34,33,11,9,18,52,no,manager,life sciences,19999
+191,1,7,7,0,3,7,27,no,research scientist,medical,2279
+192,2,8,1,0,1,0,35,yes,manufacturing director,life sciences,5916
+193,1,7,5,2,2,4,43,no,research scientist,medical,2089
+194,4,22,20,11,8,8,45,no,manager,medical,16792
+195,1,8,8,1,7,7,37,no,research scientist,life sciences,3564
+196,2,10,6,1,2,2,35,no,laboratory technician,medical,4425
+197,2,11,5,0,2,3,42,no,manufacturing director,medical,5265
+198,2,14,1,0,0,0,38,no,manufacturing director,life sciences,6553
+199,2,9,7,1,7,7,38,no,manufacturing director,technical degree,6261
+200,2,6,2,2,0,2,27,no,manufacturing director,technical degree,4298
+201,2,7,7,1,7,7,49,no,manufacturing director,life sciences,6804
+202,1,5,5,2,0,3,34,no,research scientist,medical,3815
+203,2,15,7,3,7,2,40,no,laboratory technician,medical,2741
+204,2,17,1,0,0,0,38,yes,healthcare representative,medical,6673
+205,3,10,10,1,9,4,29,yes,sales executive,marketing,7639
+206,1,4,4,2,2,2,22,no,research scientist,life sciences,2328
+207,1,8,8,1,7,1,36,no,laboratory technician,medical,2153
+208,2,5,3,0,2,2,40,no,healthcare representative,life sciences,4876
+209,3,17,4,0,3,2,46,no,healthcare representative,medical,9396
+210,3,14,14,9,8,8,32,yes,sales executive,medical,10400
+211,3,12,11,5,8,8,30,no,manufacturing director,life sciences,8474
+212,2,7,7,0,7,7,27,no,sales executive,life sciences,9981
+213,3,16,10,4,7,9,51,no,research director,life sciences,12490
+214,1,8,5,0,4,2,30,yes,research scientist,technical degree,2657
+215,3,16,1,0,0,0,41,no,manager,life sciences,13591
+216,2,9,6,0,1,3,30,yes,sales executive,marketing,6696
+217,1,7,6,1,5,2,29,yes,research scientist,technical degree,2058
+218,3,23,19,12,8,7,45,no,sales executive,medical,8865
+219,2,16,6,0,5,2,54,no,sales executive,marketing,5940
+220,2,16,13,3,7,11,36,no,laboratory technician,life sciences,5914
+221,1,7,3,1,1,2,33,no,research scientist,medical,2622
+222,3,10,10,0,7,8,37,no,research director,other,12185
+223,3,17,16,5,13,10,38,no,sales executive,life sciences,10609
+224,2,6,5,1,4,4,31,no,manufacturing director,medical,4345
+225,1,7,1,0,0,0,59,no,research scientist,life sciences,2177
+226,1,13,9,5,8,8,37,no,sales representative,marketing,2793
+227,3,11,11,4,1,10,29,no,sales executive,medical,7918
+228,3,10,10,0,8,7,35,no,sales executive,marketing,8789
+229,1,4,4,0,1,3,29,yes,research scientist,medical,2389
+230,1,6,2,2,2,2,52,no,laboratory technician,life sciences,3212
+231,5,22,22,11,15,17,42,no,manager,technical degree,19232
+232,1,7,2,2,2,2,59,no,human resources,medical,2267
+233,5,32,7,0,6,0,50,no,manager,medical,19517
+234,1,8,5,0,4,4,33,yes,laboratory technician,medical,2436
+235,4,22,17,1,9,13,43,no,manager,marketing,16064
+236,1,13,9,1,7,7,33,yes,laboratory technician,life sciences,2707
+237,5,33,33,15,12,7,52,no,manager,life sciences,19068
+238,1,6,4,1,2,3,32,no,sales representative,life sciences,3931
+239,1,4,3,1,2,2,32,yes,laboratory technician,life sciences,3730
+240,1,7,3,1,2,2,39,no,laboratory technician,medical,2232
+241,2,4,3,2,2,2,32,no,sales executive,marketing,4465
+242,2,17,1,0,0,0,41,no,research scientist,life sciences,3072
+243,2,9,9,4,7,8,40,no,research scientist,technical degree,3319
+244,5,25,24,1,7,0,45,no,manager,other,19202
+245,3,9,2,2,2,2,31,no,research director,medical,13675
+246,1,2,2,0,2,2,33,no,research scientist,life sciences,2911
+247,2,13,11,5,9,9,34,no,manufacturing director,life sciences,5957
+248,1,17,3,0,2,1,37,no,research scientist,medical,3920
+249,2,9,3,0,2,2,45,no,manufacturing director,life sciences,6434
+250,3,17,1,0,0,0,37,yes,manufacturing director,medical,10048
+251,3,20,19,11,8,6,39,no,healthcare representative,technical degree,10938
+252,1,6,6,1,5,5,29,no,research scientist,life sciences,2340
+253,2,10,3,0,2,2,42,no,research scientist,life sciences,6545
+254,2,10,3,0,2,2,29,no,sales executive,marketing,6931
+255,2,5,4,1,2,2,25,no,manufacturing director,life sciences,4898
+256,1,10,9,7,8,6,42,no,laboratory technician,medical,2593
+257,5,22,21,3,9,7,40,no,research director,medical,19436
+258,1,1,1,0,0,0,51,no,research scientist,life sciences,2723
+259,1,6,5,1,4,4,31,yes,laboratory technician,medical,3479
+260,1,5,5,0,3,1,32,no,laboratory technician,life sciences,2794
+261,2,13,8,7,5,7,38,no,sales executive,life sciences,5249
+262,2,9,6,0,4,2,32,no,laboratory technician,technical degree,2176
+263,4,28,7,7,7,7,46,no,manager,technical degree,16872
+264,1,5,0,0,0,0,28,yes,laboratory technician,life sciences,3485
+265,2,10,0,0,0,0,29,no,sales executive,medical,6644
+266,2,10,9,7,8,0,31,no,healthcare representative,medical,5582
+267,2,6,6,1,5,3,25,no,healthcare representative,life sciences,4000
+268,4,21,20,4,10,7,45,no,healthcare representative,medical,13496
+269,1,16,15,10,11,13,36,no,laboratory technician,life sciences,3210
+270,5,37,36,4,13,10,55,no,manager,medical,19045
+271,3,10,10,9,9,7,47,yes,manager,life sciences,11849
+272,1,5,5,0,4,2,28,no,research scientist,medical,2070
+273,2,7,5,0,1,4,37,no,sales executive,medical,6502
+274,1,3,3,1,0,2,21,no,research scientist,medical,3230
+275,3,15,5,0,2,2,37,no,research director,medical,13603
+276,3,10,7,6,2,7,35,no,manager,life sciences,11996
+277,2,8,8,7,7,0,38,no,sales executive,medical,5605
+278,2,6,6,1,4,5,26,no,manufacturing director,life sciences,6397
+279,5,28,10,1,6,4,50,no,research director,life sciences,19144
+280,4,21,5,1,3,3,53,no,research director,medical,17584
+281,2,20,20,11,6,16,42,no,sales executive,life sciences,4907
+282,2,10,10,0,9,7,29,no,sales executive,life sciences,4554
+283,2,12,10,0,8,7,55,no,laboratory technician,technical degree,5415
+284,2,5,5,3,3,3,26,no,healthcare representative,medical,4741
+285,1,17,17,5,7,12,37,no,research scientist,life sciences,2115
+286,1,19,1,0,0,0,44,yes,laboratory technician,life sciences,3161
+287,2,10,2,1,2,2,38,no,healthcare representative,life sciences,5745
+288,1,5,3,0,2,2,26,yes,laboratory technician,medical,2373
+289,1,5,5,0,2,3,28,no,research scientist,life sciences,3310
+290,5,22,3,1,2,2,49,no,research director,life sciences,18665
+291,2,10,8,7,7,0,36,no,research scientist,technical degree,4485
+292,1,2,2,2,2,2,31,no,sales representative,marketing,2789
+293,2,8,8,7,4,7,26,yes,sales executive,marketing,5828
+294,1,4,4,1,2,2,37,no,research scientist,medical,2326
+295,4,23,20,4,8,4,42,no,sales executive,marketing,13525
+296,1,0,0,0,0,0,18,yes,laboratory technician,life sciences,1420
+297,3,12,11,6,9,9,35,no,sales executive,marketing,8020
+298,1,4,1,0,0,0,36,no,laboratory technician,life sciences,3688
+299,2,13,4,1,2,1,51,no,manufacturing director,medical,5482
+300,4,22,22,0,4,10,41,no,manager,life sciences,16015
+301,1,0,0,0,0,0,18,no,sales representative,medical,1200
+302,2,9,8,0,7,3,28,no,healthcare representative,medical,5661
+303,2,10,8,7,7,7,31,no,sales executive,technical degree,6929
+304,3,19,18,3,7,10,39,no,healthcare representative,medical,9613
+305,2,11,9,0,8,8,36,no,laboratory technician,life sciences,5674
+306,2,13,13,4,8,8,32,no,sales executive,life sciences,5484
+307,3,19,10,0,1,8,38,no,research director,life sciences,12061
+308,2,12,5,1,2,3,58,no,healthcare representative,life sciences,5660
+309,1,6,5,0,3,2,31,no,research scientist,technical degree,4821
+310,2,9,2,1,0,2,31,no,human resources,human resources,6410
+311,3,24,24,9,11,9,45,no,laboratory technician,life sciences,5210
+312,1,3,2,2,2,2,31,no,research scientist,life sciences,2695
+313,3,12,10,8,8,6,33,no,manager,life sciences,11878
+314,4,21,21,11,10,9,39,no,manager,medical,17068
+315,1,9,8,1,7,7,43,no,laboratory technician,life sciences,2455
+316,4,25,7,0,7,1,49,no,healthcare representative,technical degree,13964
+317,2,11,8,7,7,2,52,yes,research scientist,medical,4941
+318,1,4,4,1,2,3,27,no,research scientist,life sciences,2478
+319,2,13,13,11,9,12,32,no,sales executive,technical degree,5228
+320,2,5,5,0,4,4,27,no,sales executive,life sciences,4478
+321,2,13,7,1,7,7,31,no,sales executive,marketing,7547
+322,2,10,7,0,7,7,32,no,research scientist,medical,5055
+323,1,5,3,2,2,2,28,yes,research scientist,medical,3464
+324,2,11,10,1,9,8,30,no,research scientist,medical,5775
+325,3,10,10,8,9,9,31,no,manufacturing director,life sciences,8943
+326,5,21,21,13,3,9,39,no,manager,medical,19272
+327,2,12,1,0,0,0,39,yes,sales executive,medical,5238
+328,2,9,7,0,1,7,33,no,sales executive,marketing,4682
+329,5,21,3,1,1,2,47,no,research director,life sciences,18300
+330,2,9,9,0,0,7,43,no,laboratory technician,life sciences,5257
+331,2,6,5,1,4,4,27,no,sales executive,marketing,6349
+332,2,20,4,0,3,3,54,no,research scientist,life sciences,4869
+333,3,10,1,0,0,0,43,no,healthcare representative,life sciences,9985
+334,2,12,10,9,8,9,45,no,research scientist,other,3697
+335,2,6,4,0,2,3,40,no,sales executive,medical,7457
+336,1,7,7,0,7,7,29,yes,laboratory technician,other,2119
+337,1,4,3,2,2,2,29,no,laboratory technician,other,3983
+338,2,10,10,1,2,9,30,no,sales executive,marketing,6118
+339,2,8,8,0,7,7,27,no,sales executive,marketing,6214
+340,2,8,6,0,4,2,37,no,manufacturing director,medical,6347
+341,3,12,11,2,9,10,38,no,research director,life sciences,11510
+342,3,11,11,4,10,9,31,no,manufacturing director,medical,7143
+343,2,7,7,1,7,7,29,no,sales executive,marketing,8268
+344,3,17,16,0,13,6,35,no,manufacturing director,technical degree,8095
+345,1,4,4,0,2,2,23,no,research scientist,life sciences,2904
+346,2,8,5,1,2,4,41,no,manufacturing director,medical,6032
+347,2,5,0,0,0,0,47,no,sales representative,medical,2976
+348,4,16,1,0,0,0,42,no,research director,life sciences,15992
+349,2,4,4,0,2,3,29,no,sales executive,life sciences,4649
+350,1,4,3,1,0,2,42,no,human resources,technical degree,2696
+351,1,8,8,0,7,0,32,no,laboratory technician,medical,2370
+352,3,15,0,0,0,0,48,no,manager,medical,12504
+353,2,13,7,6,7,7,37,no,research scientist,medical,5974
+354,2,4,2,2,2,2,30,no,sales executive,technical degree,4736
+355,2,8,8,7,7,7,26,no,sales executive,life sciences,5296
+356,2,14,1,0,0,0,42,no,healthcare representative,other,6781
+357,1,3,3,1,2,2,21,yes,sales representative,technical degree,2174
+358,2,7,1,0,0,0,36,no,sales executive,medical,6653
+359,3,16,13,1,12,9,36,no,sales executive,medical,9699
+360,2,15,3,1,2,2,57,no,healthcare representative,medical,6755
+361,1,10,7,1,7,7,40,no,laboratory technician,life sciences,2213
+362,1,3,3,2,2,2,21,no,sales representative,medical,2610
+363,1,1,1,0,0,0,33,yes,sales representative,marketing,2851
+364,1,17,5,0,3,4,37,no,laboratory technician,medical,3452
+365,2,7,1,0,0,0,46,no,manufacturing director,medical,5258
+366,2,8,8,7,7,7,41,yes,sales executive,marketing,9355
+367,3,20,4,1,3,3,50,no,healthcare representative,technical degree,10496
+368,2,8,6,1,0,4,40,yes,sales executive,marketing,6380
+369,1,3,2,2,2,2,31,no,research scientist,life sciences,2657
+370,1,1,1,0,0,0,21,yes,sales representative,life sciences,2716
+371,1,6,3,1,2,2,29,no,research scientist,life sciences,2201
+372,2,10,1,0,0,1,35,no,healthcare representative,life sciences,6540
+373,1,5,5,0,4,2,27,no,laboratory technician,medical,3816
+374,2,7,7,0,7,5,28,no,sales executive,life sciences,5253
+375,3,26,5,0,0,2,49,no,healthcare representative,other,10965
+376,2,18,7,0,7,7,51,no,sales executive,life sciences,4936
+377,1,6,2,2,2,2,36,no,research scientist,life sciences,2543
+378,2,9,5,0,4,2,34,yes,sales executive,marketing,5304
+379,4,30,5,1,2,4,55,no,manager,life sciences,16659
+380,2,5,5,0,3,2,24,no,sales executive,marketing,4260
+381,1,1,1,0,0,0,30,no,sales representative,technical degree,2476
+382,1,7,6,0,4,4,26,yes,research scientist,technical degree,3102
+383,1,2,2,1,2,1,22,no,research scientist,medical,2244
+384,3,10,10,9,0,9,36,no,sales executive,medical,7596
+385,1,3,1,0,0,0,30,yes,research scientist,technical degree,2285
+386,1,18,18,12,17,7,37,no,laboratory technician,life sciences,3034
+387,2,8,5,1,3,4,40,no,sales executive,marketing,5715
+388,1,8,5,1,2,2,42,no,laboratory technician,life sciences,2576
+389,2,18,1,0,1,0,37,no,manufacturing director,life sciences,4197
+390,4,25,25,3,9,10,43,no,research director,life sciences,14336
+391,2,20,1,0,0,0,40,no,laboratory technician,medical,3448
+392,5,24,4,1,2,2,54,no,research director,medical,19406
+393,2,6,3,1,2,2,34,no,sales executive,marketing,6538
+394,2,13,13,3,12,10,31,no,manufacturing director,medical,4306
+395,1,8,3,1,2,2,43,no,laboratory technician,medical,2258
+396,2,8,5,0,2,2,43,no,healthcare representative,other,4522
+397,2,5,5,1,3,4,25,no,sales executive,life sciences,4487
+398,2,15,13,10,7,11,37,no,research scientist,medical,4449
+399,1,4,4,3,2,2,31,no,laboratory technician,life sciences,2218
+400,5,21,21,1,6,8,39,no,manager,life sciences,19197
+401,4,36,7,7,7,7,56,no,sales executive,life sciences,13212
+402,2,6,5,4,4,4,30,no,sales executive,technical degree,6577
+403,3,10,10,0,7,7,41,no,sales executive,marketing,8392
+404,2,10,10,1,8,0,28,no,laboratory technician,medical,4558
+405,1,6,2,0,2,2,25,yes,laboratory technician,medical,4031
+406,3,28,5,0,4,4,52,no,manufacturing director,medical,7969
+407,1,8,2,0,2,2,45,no,research scientist,life sciences,2654
+408,4,31,5,1,4,2,52,no,manager,life sciences,16555
+409,2,19,5,0,2,4,42,no,research scientist,life sciences,4556
+410,2,11,5,0,2,4,30,no,manufacturing director,life sciences,6091
+411,5,33,29,11,10,8,60,no,manager,life sciences,19566
+412,2,19,10,0,8,7,46,no,manufacturing director,medical,4810
+413,2,7,6,0,4,5,42,no,healthcare representative,technical degree,4523
+414,1,6,5,1,4,3,24,yes,sales representative,technical degree,3202
+415,1,3,2,1,0,2,34,yes,sales representative,marketing,2351
+416,1,1,1,0,0,0,38,no,laboratory technician,life sciences,1702
+417,5,21,20,1,12,15,40,no,manager,life sciences,18041
+418,1,3,3,0,2,2,26,no,research scientist,life sciences,2886
+419,1,9,5,1,4,3,30,no,laboratory technician,life sciences,2097
+420,3,10,10,0,7,2,29,no,research director,medical,11935
+421,1,6,2,1,1,2,29,yes,research scientist,technical degree,2546
+422,1,1,1,0,0,0,19,yes,human resources,technical degree,2564
+423,3,10,9,7,8,8,30,no,sales executive,other,8412
+424,4,32,1,0,0,0,57,no,manager,marketing,14118
+425,4,28,27,15,7,10,50,no,manager,life sciences,17046
+426,1,12,11,6,7,7,30,no,laboratory technician,medical,2564
+427,3,22,18,13,11,13,60,no,sales executive,marketing,10266
+428,2,20,5,0,4,0,47,no,manufacturing director,medical,5070
+429,4,26,3,0,1,2,46,no,research director,life sciences,17861
+430,1,6,5,4,3,4,35,no,laboratory technician,life sciences,4230
+431,2,19,1,0,0,0,54,no,laboratory technician,life sciences,3780
+432,1,14,7,5,7,3,34,no,research scientist,life sciences,2768
+433,3,15,3,1,2,2,46,no,sales executive,marketing,9071
+434,3,13,13,0,8,8,31,no,manufacturing director,life sciences,10648
+435,3,15,7,7,7,6,33,yes,manager,medical,13610
+436,1,8,4,1,3,3,33,yes,laboratory technician,medical,3408
+437,1,4,3,1,2,2,30,no,sales representative,marketing,2983
+438,3,10,8,0,0,7,35,no,healthcare representative,life sciences,7632
+439,3,12,1,0,0,0,31,yes,healthcare representative,life sciences,9824
+440,3,11,3,0,2,2,34,yes,human resources,human resources,9950
+441,1,8,2,2,0,2,42,no,laboratory technician,other,2093
+442,3,10,10,9,7,3,36,no,sales executive,medical,9980
+443,1,4,2,1,2,2,22,yes,laboratory technician,technical degree,3894
+444,2,14,9,6,7,7,48,no,sales executive,marketing,4051
+445,4,37,10,7,7,9,55,no,manager,life sciences,16835
+446,2,16,14,1,10,3,41,no,sales executive,life sciences,6230
+447,2,15,11,6,9,9,35,no,sales executive,marketing,4717
+448,4,22,20,5,13,6,40,no,manufacturing director,life sciences,13237
+449,1,8,8,0,7,3,39,no,laboratory technician,life sciences,3755
+450,2,10,6,0,5,5,31,no,sales executive,life sciences,6582
+451,3,10,10,5,8,9,42,no,manufacturing director,medical,7406
+452,2,9,8,3,7,7,45,no,sales executive,other,4805
+453,1,8,7,1,0,7,26,yes,human resources,life sciences,2741
+454,2,8,3,1,2,2,29,no,manufacturing director,technical degree,4262
+455,4,10,6,0,5,1,33,no,research director,medical,16184
+456,3,10,5,0,1,4,31,no,manager,life sciences,11557
+457,1,0,0,0,0,0,18,yes,sales representative,marketing,1878
+458,3,20,1,0,1,0,40,no,sales executive,other,10932
+459,2,10,8,0,7,7,41,no,healthcare representative,other,6811
+460,2,8,0,0,0,0,26,no,sales executive,medical,4306
+461,2,5,5,0,3,4,35,no,sales executive,medical,4859
+462,2,10,10,5,7,7,34,no,sales executive,life sciences,5337
+463,1,1,1,0,0,0,26,yes,laboratory technician,technical degree,2340
+464,3,12,6,1,2,5,37,no,manufacturing director,technical degree,7491
+465,3,28,2,1,2,2,46,no,healthcare representative,medical,10527
+466,4,22,18,11,8,16,41,no,manager,life sciences,16595
+467,3,9,9,7,7,5,37,no,sales executive,medical,8834
+468,2,18,10,6,9,9,52,no,research scientist,technical degree,5577
+469,2,6,4,1,2,2,32,yes,sales executive,other,4707
+470,1,3,2,2,1,2,24,no,sales representative,medical,2400
+471,2,18,1,0,0,0,38,no,healthcare representative,medical,9824
+472,2,8,6,4,3,5,37,no,manufacturing director,life sciences,6447
+473,5,31,31,0,9,9,49,no,research director,life sciences,19502
+474,1,6,6,1,4,5,24,no,research scientist,medical,2725
+475,2,6,5,1,4,3,26,no,sales executive,marketing,6272
+476,1,1,1,0,0,0,24,no,laboratory technician,other,2127
+477,5,32,32,10,7,5,50,no,manager,medical,18200
+478,1,7,7,0,6,4,25,no,sales representative,medical,2096
+479,1,6,6,1,2,3,24,yes,laboratory technician,life sciences,2886
+480,1,1,1,0,0,0,30,yes,sales representative,life sciences,2033
+481,1,6,6,1,3,5,34,no,research scientist,life sciences,3622
+482,2,9,3,1,2,1,31,yes,sales executive,medical,4233
+483,2,9,3,0,2,2,35,no,laboratory technician,other,3681
+484,2,13,7,5,7,7,31,no,sales executive,medical,5460
+485,1,6,5,0,3,3,27,no,research scientist,medical,2187
+486,2,17,3,1,0,0,37,no,sales executive,marketing,9602
+487,1,1,1,0,0,0,20,no,research scientist,life sciences,2836
+488,2,10,10,2,2,2,42,no,healthcare representative,life sciences,4089
+489,4,21,1,0,0,0,43,no,research director,other,16627
+490,1,8,0,0,0,0,38,no,research scientist,life sciences,2619
+491,2,10,8,4,7,7,43,no,laboratory technician,medical,5679
+492,4,21,3,0,2,2,48,no,manager,life sciences,15402
+493,2,10,2,0,2,2,44,no,human resources,life sciences,5985
+494,1,8,8,0,6,2,34,no,sales representative,technical degree,2579
+495,1,5,4,0,2,3,27,yes,sales representative,marketing,3041
+496,1,3,3,1,2,2,21,no,sales representative,technical degree,3447
+497,5,26,2,0,1,2,44,no,manager,other,19513
+498,1,3,2,2,2,2,22,no,research scientist,medical,2773
+499,2,6,5,1,2,0,33,no,sales executive,marketing,7104
+500,2,6,6,0,5,4,32,no,research scientist,life sciences,6322
+501,1,1,1,0,0,0,30,no,research scientist,medical,2083
+502,2,18,14,8,10,7,53,no,sales executive,medical,8381
+503,1,10,10,8,8,9,34,no,research scientist,life sciences,2691
+504,2,5,1,0,0,1,45,yes,sales executive,life sciences,4286
+505,1,3,3,0,2,2,26,no,laboratory technician,life sciences,2659
+506,3,10,10,7,8,7,37,no,manufacturing director,other,9434
+507,2,6,6,1,2,0,29,no,sales executive,medical,5561
+508,2,17,17,11,8,11,35,no,research scientist,life sciences,6646
+509,2,15,13,4,7,11,33,no,healthcare representative,life sciences,7725
+510,3,16,9,7,1,7,54,no,human resources,medical,10725
+511,2,13,3,0,2,2,36,no,manufacturing director,medical,8847
+512,1,5,4,1,1,2,27,no,research scientist,medical,2045
+513,1,1,1,1,1,0,20,yes,research scientist,medical,1009
+514,1,10,10,9,7,8,33,yes,research scientist,life sciences,3348
+515,1,1,1,0,0,0,35,no,laboratory technician,life sciences,1281
+516,1,5,3,0,2,2,23,no,research scientist,medical,2819
+517,2,4,3,1,2,2,25,no,sales executive,life sciences,4851
+518,2,8,7,0,5,7,38,no,sales executive,marketing,4028
+519,1,10,10,2,8,7,29,no,research scientist,life sciences,2720
+520,2,12,2,2,2,2,48,no,sales executive,marketing,8120
+521,2,6,6,0,4,5,27,no,sales executive,medical,4647
+522,1,4,1,0,0,0,37,no,research scientist,life sciences,4680
+523,1,20,20,3,8,8,50,no,laboratory technician,medical,3221
+524,3,9,8,7,7,7,34,no,healthcare representative,medical,8621
+525,2,4,2,2,0,2,24,yes,sales executive,life sciences,4577
+526,2,20,20,11,10,7,39,no,healthcare representative,technical degree,4553
+527,2,10,10,0,8,7,32,no,sales executive,marketing,5396
+528,2,18,4,1,3,3,50,yes,sales executive,technical degree,6796
+529,2,10,9,1,8,7,38,no,healthcare representative,life sciences,7625
+530,3,9,9,0,7,7,27,no,manufacturing director,life sciences,7412
+531,3,10,7,7,7,7,32,no,research director,life sciences,11159
+532,2,20,7,1,7,7,47,no,sales executive,marketing,4960
+533,3,20,18,1,12,13,40,no,sales executive,life sciences,10475
+534,4,32,5,1,3,1,53,no,research director,life sciences,14814
+535,5,23,21,12,6,6,41,no,manager,human resources,19141
+536,2,10,2,2,2,2,60,no,sales executive,marketing,5405
+537,3,9,9,1,7,7,27,no,manufacturing director,life sciences,8793
+538,5,22,22,2,10,7,41,no,manager,human resources,19189
+539,1,4,2,2,2,2,50,no,sales representative,marketing,3875
+540,1,10,7,3,7,7,28,yes,research scientist,life sciences,2216
+541,3,10,8,0,5,7,36,no,research director,life sciences,11713
+542,3,10,1,0,0,0,38,no,manufacturing director,life sciences,7861
+543,1,9,5,1,4,2,44,no,laboratory technician,medical,3708
+544,4,28,22,11,13,2,47,no,sales executive,medical,13770
+545,2,10,8,7,7,7,30,no,sales executive,marketing,5304
+546,1,1,1,0,0,0,29,no,sales representative,life sciences,2642
+547,1,7,2,2,2,2,42,yes,research scientist,medical,2759
+548,2,7,2,2,2,2,43,no,sales executive,life sciences,6804
+549,2,10,5,4,3,1,34,no,healthcare representative,medical,6142
+550,1,5,4,0,2,3,23,no,laboratory technician,medical,2500
+551,2,12,8,3,6,3,39,no,human resources,human resources,6389
+552,4,30,10,1,1,7,56,no,healthcare representative,medical,11103
+553,1,5,4,2,3,2,40,no,research scientist,medical,2342
+554,2,9,7,0,7,6,27,no,healthcare representative,medical,6811
+555,1,2,2,2,2,2,29,no,sales representative,marketing,2297
+556,2,19,2,2,2,2,53,no,laboratory technician,life sciences,2450
+557,2,16,1,0,0,0,35,no,healthcare representative,life sciences,5093
+558,2,10,10,4,7,8,32,no,laboratory technician,life sciences,5309
+559,1,6,1,0,1,0,38,no,research scientist,medical,3057
+560,2,7,0,0,0,0,34,no,manufacturing director,life sciences,5121
+561,4,34,34,1,16,6,52,no,manager,marketing,16856
+562,1,10,10,7,8,9,33,yes,research scientist,other,2686
+563,2,6,6,1,4,5,25,no,sales executive,medical,6180
+564,2,9,8,3,1,7,45,no,sales representative,technical degree,6632
+565,1,2,2,0,2,2,23,no,research scientist,medical,3505
+566,2,8,5,1,3,4,47,yes,sales executive,life sciences,6397
+567,2,6,6,1,4,5,34,no,sales executive,other,6274
+568,5,24,5,1,4,2,55,yes,manager,medical,19859
+569,3,10,10,0,9,7,36,no,sales executive,life sciences,7587
+570,1,5,4,1,2,3,52,no,research scientist,medical,4258
+571,1,5,2,2,0,2,26,no,laboratory technician,life sciences,4364
+572,2,11,8,1,1,7,29,no,healthcare representative,medical,4335
+573,2,6,4,1,2,3,26,yes,sales executive,technical degree,5326
+574,1,10,4,1,3,2,34,no,research scientist,life sciences,3280
+575,2,9,5,1,4,3,54,no,manufacturing director,medical,5485
+576,2,5,4,1,1,2,27,no,sales executive,marketing,4342
+577,1,6,5,4,3,3,37,no,research scientist,life sciences,2782
+578,2,17,15,4,12,7,38,no,manufacturing director,life sciences,5980
+579,1,6,6,1,3,5,34,no,research scientist,medical,4381
+580,1,3,3,0,2,2,35,no,sales representative,life sciences,2572
+581,1,7,2,0,2,2,30,no,laboratory technician,life sciences,3833
+582,2,8,8,3,7,7,40,no,healthcare representative,medical,4244
+583,2,6,3,1,2,2,34,no,sales executive,life sciences,6500
+584,5,24,24,14,9,7,42,no,manager,life sciences,18430
+585,1,1,0,0,0,0,23,yes,laboratory technician,life sciences,1601
+586,1,1,1,0,0,0,24,no,laboratory technician,life sciences,2694
+587,2,9,5,1,4,2,52,no,laboratory technician,life sciences,3149
+588,4,30,4,0,3,3,50,no,research director,medical,17639
+589,1,1,1,0,0,0,29,yes,laboratory technician,life sciences,2319
+590,3,14,13,3,7,9,33,no,research director,medical,11691
+591,2,6,3,0,2,2,33,yes,sales executive,marketing,5324
+592,4,26,26,3,0,14,47,no,manager,other,16752
+593,2,10,9,0,5,7,36,no,manufacturing director,other,5228
+594,1,10,10,0,7,7,29,no,research scientist,life sciences,2700
+595,5,40,31,13,8,15,58,yes,research director,life sciences,19246
+596,1,7,2,2,2,2,35,no,research scientist,life sciences,2506
+597,2,8,4,0,2,3,42,no,manufacturing director,life sciences,6062
+598,1,5,2,2,1,2,28,yes,research scientist,medical,4382
+599,1,8,5,0,4,2,36,no,human resources,human resources,2143
+600,2,14,14,6,8,13,32,no,manufacturing director,life sciences,6162
+601,2,10,1,0,0,0,40,no,laboratory technician,medical,5094
+602,2,12,0,0,0,0,30,no,manufacturing director,medical,6877
+603,1,1,1,0,0,0,45,no,research scientist,life sciences,2274
+604,2,10,9,7,8,8,42,no,manufacturing director,life sciences,4434
+605,2,13,4,1,2,3,38,no,healthcare representative,life sciences,6288
+606,1,6,5,1,3,2,34,no,research scientist,life sciences,2553
+607,3,9,9,7,7,8,49,yes,sales executive,marketing,7654
+608,2,12,9,7,3,7,55,yes,sales executive,medical,5160
+609,4,22,4,1,0,1,43,no,research director,life sciences,17159
+610,3,9,9,0,8,8,27,no,research director,technical degree,12808
+611,3,17,8,1,6,5,35,no,manufacturing director,other,10221
+612,2,8,8,7,5,7,28,no,sales executive,marketing,4779
+613,1,4,3,0,2,2,34,no,human resources,human resources,3737
+614,1,8,8,1,7,7,26,yes,research scientist,medical,2366
+615,1,0,0,0,0,0,27,no,research scientist,medical,1706
+616,4,29,20,4,17,6,51,no,manager,marketing,16307
+617,2,10,5,2,3,2,44,no,healthcare representative,medical,5933
+618,1,6,4,0,1,3,25,no,research scientist,medical,3424
+619,2,9,9,0,8,8,33,no,sales executive,medical,4037
+620,1,6,6,1,1,5,35,no,research scientist,medical,2559
+621,2,18,18,4,11,14,36,no,sales executive,life sciences,6201
+622,2,8,5,0,3,2,32,no,sales executive,life sciences,4403
+623,1,10,5,0,3,4,30,no,research scientist,life sciences,3761
+624,3,35,5,0,4,2,53,no,sales executive,marketing,10934
+625,3,18,5,0,2,4,45,no,sales executive,marketing,10761
+626,2,9,5,1,3,3,32,no,research scientist,medical,5175
+627,4,31,9,0,0,8,52,no,manufacturing director,medical,13826
+628,2,9,1,0,0,0,37,no,sales executive,marketing,6334
+629,1,6,5,0,4,1,28,no,human resources,medical,4936
+630,2,4,2,2,2,2,22,no,manufacturing director,life sciences,4775
+631,1,10,3,0,2,2,44,no,laboratory technician,life sciences,2818
+632,1,8,2,2,2,1,42,no,research scientist,medical,2515
+633,1,6,5,0,3,4,36,no,human resources,life sciences,2342
+634,2,5,5,0,3,3,25,no,sales executive,other,4194
+635,3,17,17,5,15,14,35,no,manufacturing director,life sciences,10685
+636,1,10,10,7,8,2,35,yes,research scientist,life sciences,2022
+637,1,4,3,0,2,0,32,no,laboratory technician,life sciences,2314
+638,2,5,5,0,3,2,25,no,sales executive,marketing,4256
+639,1,7,4,0,2,2,49,no,research scientist,technical degree,3580
+640,1,6,5,3,4,2,24,no,laboratory technician,life sciences,3162
+641,2,10,10,5,3,8,32,no,sales executive,life sciences,6524
+642,1,3,2,1,2,2,38,no,sales representative,marketing,2899
+643,2,17,5,1,3,3,42,no,laboratory technician,life sciences,5231
+644,1,8,6,0,2,4,31,no,research scientist,life sciences,2356
+645,1,5,3,0,2,2,29,yes,sales representative,medical,2800
+646,4,28,2,2,2,0,53,no,sales executive,marketing,11836
+647,3,16,13,4,8,10,35,no,manufacturing director,technical degree,10903
+648,1,10,5,0,0,4,37,no,sales representative,medical,2973
+649,4,33,12,3,8,9,53,no,research director,life sciences,14275
+650,2,12,5,2,2,2,43,no,healthcare representative,life sciences,5562
+651,2,8,7,7,7,6,47,no,sales executive,marketing,4537
+652,3,10,10,0,9,0,37,no,sales executive,medical,7642
+653,4,31,31,14,7,6,50,no,manager,life sciences,17924
+654,2,13,5,0,4,4,39,no,human resources,life sciences,5204
+655,1,7,4,0,3,3,33,no,human resources,human resources,2277
+656,1,1,1,0,1,0,32,yes,laboratory technician,life sciences,2795
+657,1,8,4,0,3,3,29,no,laboratory technician,medical,2532
+658,1,8,8,7,1,7,44,no,research scientist,life sciences,2559
+659,2,4,4,0,2,2,28,no,sales executive,medical,4908
+660,1,3,1,0,0,0,58,yes,laboratory technician,life sciences,2380
+661,2,4,1,0,0,0,43,no,manufacturing director,life sciences,4765
+662,1,2,2,0,2,2,20,yes,sales representative,medical,2044
+663,1,1,1,0,0,0,21,yes,research scientist,other,2693
+664,2,17,16,4,11,8,36,no,healthcare representative,life sciences,6586
+665,1,3,3,1,2,2,47,no,sales representative,life sciences,3294
+666,2,4,3,0,2,2,22,yes,manufacturing director,life sciences,4171
+667,1,10,7,1,0,7,41,yes,laboratory technician,life sciences,2778
+668,1,6,2,2,2,2,28,no,research scientist,medical,2377
+669,1,8,2,2,2,2,39,yes,laboratory technician,medical,2404
+670,1,1,1,0,0,1,27,no,research scientist,life sciences,2318
+671,1,1,1,1,0,0,34,no,laboratory technician,life sciences,2008
+672,2,10,5,0,3,4,42,no,sales executive,medical,6244
+673,1,6,3,0,2,2,33,no,research scientist,other,2799
+674,3,24,6,0,4,0,58,no,healthcare representative,technical degree,10552
+675,1,13,7,5,2,7,31,no,sales representative,life sciences,2329
+676,2,10,10,0,7,6,35,no,healthcare representative,life sciences,4014
+677,3,29,26,1,7,9,49,no,laboratory technician,other,7403
+678,1,13,0,0,0,0,48,no,research scientist,medical,2259
+679,2,9,9,0,0,8,31,no,sales executive,marketing,6932
+680,1,8,6,0,1,2,36,no,research scientist,other,4678
+681,3,15,15,5,11,12,38,no,research director,technical degree,13582
+682,1,5,3,0,2,0,32,no,laboratory technician,life sciences,2332
+683,1,1,1,0,0,0,25,yes,sales representative,marketing,2413
+684,3,11,1,0,0,0,40,no,sales executive,marketing,9705
+685,2,7,7,0,7,7,26,no,sales executive,medical,4294
+686,1,20,18,2,17,13,41,no,laboratory technician,medical,4721
+687,1,16,11,3,9,8,36,no,laboratory technician,medical,2519
+688,1,1,1,0,0,0,19,yes,sales representative,other,2121
+689,1,1,1,0,0,0,20,yes,laboratory technician,technical degree,2973
+690,2,10,9,8,5,7,31,no,healthcare representative,medical,5855
+691,1,3,1,0,0,1,40,no,research scientist,medical,3617
+692,2,8,8,6,3,7,32,no,manufacturing director,medical,6725
+693,3,16,16,3,7,7,36,yes,sales executive,life sciences,10325
+694,2,6,5,1,4,0,33,no,healthcare representative,life sciences,6949
+695,3,17,14,11,7,1,37,yes,sales executive,life sciences,10609
+696,2,9,9,0,8,7,45,no,laboratory technician,life sciences,4447
+697,1,3,3,0,2,1,29,no,sales representative,technical degree,2157
+698,2,5,5,1,0,2,35,no,sales executive,medical,4601
+699,4,26,9,7,8,8,52,no,manager,life sciences,17099
+700,1,7,1,0,0,0,58,yes,research scientist,technical degree,2479
+701,4,22,17,15,2,13,53,no,manager,medical,14852
+702,3,10,8,7,7,4,30,no,sales executive,other,7264
+703,2,6,5,1,3,3,38,no,sales executive,technical degree,5666
+704,3,12,10,0,8,9,35,no,sales executive,life sciences,7823
+705,3,9,8,0,7,7,39,no,sales executive,life sciences,7880
+706,4,22,1,0,0,0,40,yes,sales executive,life sciences,13194
+707,2,20,19,2,7,10,47,no,manufacturing director,medical,5067
+708,2,12,7,0,7,7,36,no,sales executive,technical degree,5079
+709,1,4,3,1,2,2,31,yes,research scientist,medical,2321
+710,4,10,10,6,0,8,33,no,manager,life sciences,17444
+711,1,3,0,0,0,0,29,yes,research scientist,life sciences,2404
+712,1,5,3,0,2,2,33,no,research scientist,life sciences,3452
+713,1,8,5,0,2,3,45,no,laboratory technician,medical,2270
+714,4,32,5,1,3,4,50,no,research director,medical,17399
+715,2,6,6,1,2,5,33,no,healthcare representative,other,5488
+716,5,21,18,0,11,16,41,no,research director,medical,19419
+717,1,4,2,2,2,2,27,no,laboratory technician,technical degree,2811
+718,2,9,9,0,8,8,45,no,laboratory technician,life sciences,3633
+719,2,9,9,0,7,0,47,no,sales executive,life sciences,4163
+720,1,7,5,0,1,2,30,yes,research scientist,life sciences,2132
+721,4,22,12,1,5,11,50,no,manufacturing director,life sciences,13973
+722,1,3,2,0,2,1,38,no,research scientist,medical,2684
+723,3,13,8,0,7,7,46,no,manufacturing director,medical,10845
+724,2,5,4,3,2,2,24,no,manufacturing director,medical,4377
+725,1,5,4,0,2,2,35,yes,laboratory technician,other,3743
+726,2,4,4,0,3,3,31,no,manufacturing director,life sciences,4148
+727,1,0,0,0,0,0,18,no,research scientist,life sciences,1051
+728,3,22,10,0,8,7,54,no,manufacturing director,technical degree,10739
+729,3,16,16,10,1,10,35,no,healthcare representative,medical,10388
+730,3,9,8,1,7,7,30,no,research director,life sciences,11416
+731,1,1,1,0,0,0,20,yes,research scientist,medical,2600
+732,1,4,3,1,2,2,30,yes,laboratory technician,medical,2422
+733,2,8,8,1,3,7,26,no,manufacturing director,medical,5472
+734,1,4,4,1,1,3,22,no,laboratory technician,life sciences,2451
+735,2,19,2,2,2,2,48,no,healthcare representative,life sciences,4240
+736,3,27,15,4,8,11,48,no,healthcare representative,life sciences,10999
+737,2,8,2,2,1,2,41,no,manufacturing director,medical,5003
+738,4,21,21,11,8,6,39,no,manufacturing director,life sciences,12742
+739,2,4,3,2,2,2,27,no,manufacturing director,life sciences,4227
+740,1,3,3,1,2,2,35,no,laboratory technician,other,3917
+741,5,21,1,0,0,0,42,no,manager,marketing,18303
+742,1,8,1,0,0,0,50,no,laboratory technician,life sciences,2380
+743,4,30,5,4,3,3,59,no,manufacturing director,life sciences,13726
+744,2,15,1,0,0,0,37,yes,healthcare representative,medical,4777
+745,2,17,8,6,7,7,55,no,healthcare representative,medical,6385
+746,5,21,21,5,10,16,41,no,research director,life sciences,19973
+747,2,19,1,0,0,0,38,no,sales executive,life sciences,6861
+748,2,7,2,2,2,2,26,yes,sales executive,medical,4969
+749,5,33,32,6,9,14,52,yes,manager,marketing,19845
+750,4,23,12,11,11,11,44,no,sales executive,medical,13320
+751,2,19,18,0,13,7,50,no,sales executive,life sciences,6347
+752,1,18,17,15,14,13,36,yes,laboratory technician,life sciences,2743
+753,3,21,21,2,8,6,39,no,manufacturing director,medical,10880
+754,1,3,2,2,2,2,33,no,sales representative,life sciences,2342
+755,4,26,9,1,1,3,45,no,manager,life sciences,17650
+756,1,10,8,7,7,7,32,no,laboratory technician,medical,4025
+757,2,16,15,0,9,1,34,no,sales executive,marketing,9725
+758,3,14,6,0,4,4,59,no,manager,technical degree,11904
+759,1,6,6,0,4,3,45,no,human resources,medical,2177
+760,3,30,15,6,12,7,53,no,sales executive,marketing,7525
+761,2,9,1,0,0,0,36,yes,laboratory technician,other,4834
+762,1,6,3,1,2,2,26,yes,research scientist,life sciences,2042
+763,1,1,1,0,0,1,34,no,sales representative,life sciences,2220
+764,1,1,1,0,0,0,28,no,sales representative,medical,1052
+765,1,8,2,2,2,2,38,no,research scientist,other,2821
+766,5,29,8,7,7,1,50,no,research director,medical,19237
+767,2,8,4,0,1,3,37,no,healthcare representative,other,4107
+768,2,8,7,7,5,7,40,no,sales executive,marketing,8396
+769,1,5,5,1,3,3,26,no,research scientist,medical,2007
+770,5,23,2,2,2,2,46,no,research director,medical,19627
+771,3,13,9,7,0,4,54,no,sales executive,life sciences,10686
+772,1,18,5,0,3,4,56,no,research scientist,medical,2942
+773,3,15,14,7,8,8,36,no,manufacturing director,medical,8858
+774,4,31,9,6,2,7,55,no,manager,medical,16756
+775,3,18,1,0,0,0,43,no,sales executive,medical,10798
+776,1,2,2,0,2,2,20,yes,sales representative,marketing,2323
+777,1,1,1,1,0,0,21,yes,laboratory technician,life sciences,1416
+778,2,19,16,1,7,13,46,no,research scientist,life sciences,4615
+779,1,18,10,2,7,0,51,yes,research scientist,life sciences,2461
+780,3,10,10,1,9,7,28,yes,healthcare representative,technical degree,8722
+781,1,6,5,1,3,3,26,no,laboratory technician,medical,3955
+782,2,7,6,0,2,2,30,no,manufacturing director,other,9957
+783,1,10,10,0,8,6,41,no,research scientist,technical degree,3376
+784,3,20,19,1,9,9,38,no,healthcare representative,life sciences,8823
+785,3,14,11,11,1,10,40,no,healthcare representative,technical degree,10322
+786,1,3,3,1,2,2,27,no,laboratory technician,life sciences,4621
+787,3,23,3,1,2,2,55,no,manufacturing director,life sciences,10976
+788,2,10,8,1,7,7,28,no,research scientist,other,3660
+789,3,24,20,3,6,6,44,yes,human resources,medical,10482
+790,3,9,3,1,2,2,33,no,healthcare representative,life sciences,7119
+791,3,9,8,4,7,7,35,yes,sales executive,technical degree,9582
+792,2,14,13,3,8,7,33,yes,research scientist,medical,4508
+793,1,4,4,2,2,2,28,no,laboratory technician,life sciences,2207
+794,2,7,6,0,4,2,34,no,healthcare representative,life sciences,7756
+795,2,8,1,0,0,0,37,no,sales executive,life sciences,6694
+796,1,7,7,5,6,7,25,yes,laboratory technician,technical degree,3691
+797,1,1,1,0,0,1,26,yes,laboratory technician,medical,2377
+798,1,5,2,2,2,2,33,yes,research scientist,medical,2313
+799,4,23,22,13,7,6,42,no,manager,medical,17665
+800,1,1,1,0,0,0,28,yes,laboratory technician,medical,2596
+801,2,5,0,0,0,0,50,yes,sales executive,other,4728
+802,2,4,3,0,2,2,33,no,sales executive,life sciences,4302
+803,1,6,0,0,0,0,34,no,research scientist,life sciences,2979
+804,4,27,5,2,1,4,48,no,manager,medical,16885
+805,2,15,15,4,12,10,45,no,sales executive,life sciences,5593
+806,3,18,8,4,0,6,52,no,healthcare representative,life sciences,10445
+807,3,9,8,2,7,7,38,no,sales executive,marketing,8740
+808,1,11,7,1,7,5,29,no,research scientist,life sciences,2514
+809,3,10,9,1,7,7,28,no,manufacturing director,medical,7655
+810,4,23,12,4,9,9,46,no,manager,marketing,17465
+811,3,10,1,0,0,0,38,no,sales executive,marketing,7351
+812,3,18,8,0,1,7,43,no,manufacturing director,life sciences,10820
+813,4,21,18,11,5,7,39,yes,healthcare representative,life sciences,12169
+814,5,21,20,4,9,7,40,no,research director,medical,19626
+815,1,2,2,2,2,2,21,no,research scientist,technical degree,2070
+816,2,9,5,0,3,4,39,no,laboratory technician,life sciences,6782
+817,2,18,11,0,9,9,36,no,manufacturing director,life sciences,7779
+818,1,3,2,2,2,2,31,no,sales representative,life sciences,2791
+819,1,6,5,0,4,3,28,no,research scientist,life sciences,3201
+820,2,5,5,0,2,2,35,no,sales executive,marketing,4968
+821,4,22,9,2,3,8,49,no,sales executive,technical degree,13120
+822,2,5,3,0,2,2,34,no,manufacturing director,life sciences,4033
+823,1,8,7,1,1,5,29,no,research scientist,life sciences,3291
+824,2,16,1,0,0,0,42,no,laboratory technician,medical,4272
+825,2,10,10,1,2,7,29,no,manufacturing director,medical,5056
+826,1,7,7,5,0,6,38,no,human resources,human resources,2844
+827,1,3,3,0,2,1,28,no,research scientist,life sciences,2703
+828,1,0,0,0,0,0,18,yes,laboratory technician,medical,1904
+829,2,6,5,0,3,2,33,yes,sales executive,marketing,8224
+830,1,6,1,0,0,0,41,no,laboratory technician,life sciences,4766
+831,1,2,2,2,2,2,31,yes,laboratory technician,medical,2610
+832,2,9,6,1,3,2,37,no,healthcare representative,medical,5731
+833,1,4,4,2,2,2,27,no,research scientist,life sciences,2539
+834,2,6,6,1,3,5,34,no,sales executive,life sciences,5714
+835,1,6,5,1,4,4,35,no,human resources,technical degree,4323
+836,3,11,11,3,10,8,29,yes,sales executive,life sciences,7336
+837,3,20,18,2,13,7,40,no,research director,medical,13499
+838,4,22,21,13,14,9,42,yes,sales executive,life sciences,13758
+839,2,9,6,1,5,4,42,no,sales executive,marketing,5155
+840,1,10,8,1,7,0,35,no,laboratory technician,medical,2258
+841,1,6,4,1,2,3,24,no,laboratory technician,medical,3597
+842,1,1,1,0,0,1,28,yes,laboratory technician,life sciences,2515
+843,1,8,8,0,7,7,26,no,laboratory technician,medical,4420
+844,2,10,10,1,4,3,30,no,sales executive,marketing,6578
+845,2,16,1,0,0,1,40,no,research scientist,medical,4422
+846,3,15,7,6,4,7,35,no,manufacturing director,life sciences,10274
+847,2,14,13,4,9,9,34,no,healthcare representative,medical,5343
+848,1,2,2,2,2,2,35,no,laboratory technician,other,2376
+849,2,7,4,1,3,3,43,yes,sales executive,marketing,5346
+850,1,1,1,0,0,0,32,no,sales representative,life sciences,2827
+851,5,28,5,4,2,2,56,no,manager,technical degree,19943
+852,1,10,10,0,8,8,29,no,laboratory technician,medical,3131
+853,1,1,1,0,0,1,19,no,research scientist,life sciences,2552
+854,1,7,3,0,2,2,45,no,research scientist,medical,4477
+855,2,14,14,3,11,8,37,no,manufacturing director,life sciences,6474
+856,1,2,2,1,2,2,20,no,laboratory technician,life sciences,3033
+857,1,6,6,0,2,4,44,yes,research scientist,life sciences,2936
+858,5,26,7,4,7,7,53,no,manager,medical,18606
+859,1,6,5,1,3,4,29,no,research scientist,life sciences,2168
+860,1,1,0,0,0,0,22,yes,research scientist,life sciences,2853
+861,4,28,26,15,9,15,46,no,manager,marketing,17048
+862,1,6,0,0,0,0,44,no,research scientist,life sciences,2290
+863,1,5,5,1,4,4,33,no,human resources,human resources,3600
+864,1,5,1,0,0,0,41,yes,research scientist,life sciences,2107
+865,2,8,4,0,3,3,30,no,sales executive,life sciences,4115
+866,2,5,0,0,0,0,40,no,sales executive,medical,4327
+867,4,32,2,2,2,2,50,no,manager,medical,17856
+868,1,6,6,3,3,5,28,no,laboratory technician,medical,3196
+869,5,25,4,0,3,2,46,no,research director,life sciences,19081
+870,2,15,7,1,7,7,35,no,sales executive,life sciences,8966
+871,1,1,1,0,0,0,24,yes,laboratory technician,life sciences,2210
+872,2,10,10,0,1,7,33,no,sales executive,medical,4539
+873,1,7,7,1,7,7,36,no,laboratory technician,life sciences,2741
+874,2,10,10,8,9,7,30,no,laboratory technician,life sciences,3491
+875,2,20,20,13,17,11,44,no,research scientist,other,4541
+876,1,2,2,2,2,1,20,no,sales representative,marketing,2678
+877,2,12,6,1,4,3,46,no,manufacturing director,technical degree,7379
+878,2,10,4,0,3,3,42,no,human resources,medical,6272
+879,2,12,11,1,9,7,60,no,sales executive,marketing,5220
+880,1,2,2,2,2,2,32,no,laboratory technician,other,2743
+881,2,10,8,0,7,7,32,no,research scientist,life sciences,4998
+882,3,17,7,7,7,7,36,no,manufacturing director,technical degree,10252
+883,1,15,14,4,10,10,33,no,research scientist,medical,2781
+884,2,7,5,1,3,1,40,no,sales executive,technical degree,6852
+885,2,5,4,1,1,3,25,no,sales executive,life sciences,4950
+886,1,12,11,5,7,9,30,no,research scientist,medical,3579
+887,3,20,1,0,0,0,42,no,research director,medical,13191
+888,3,16,13,4,12,2,35,no,sales executive,marketing,10377
+889,1,9,9,6,8,7,27,no,research scientist,life sciences,2235
+890,3,33,5,1,4,4,54,no,manufacturing director,life sciences,10502
+891,1,10,10,7,7,5,44,no,research scientist,life sciences,2011
+892,1,1,1,0,0,1,19,yes,research scientist,medical,1859
+893,1,3,3,1,2,2,29,no,research scientist,life sciences,3760
+894,4,36,10,0,9,9,54,no,research director,life sciences,17779
+895,2,6,6,0,1,5,31,no,healthcare representative,medical,6833
+896,2,10,10,1,8,9,31,no,healthcare representative,medical,6812
+897,2,13,6,0,5,1,59,no,sales executive,life sciences,5171
+898,5,25,8,0,7,7,43,no,research director,life sciences,19740
+899,5,23,1,0,0,0,49,no,manager,medical,18711
+900,1,12,11,0,7,10,36,no,research scientist,technical degree,3692
+901,1,7,1,0,0,0,48,no,laboratory technician,technical degree,2559
+902,1,5,5,0,3,3,27,no,research scientist,life sciences,2517
+903,2,6,6,1,0,0,29,no,healthcare representative,life sciences,6623
+904,5,25,1,0,0,0,48,no,research director,life sciences,18265
+905,4,9,7,1,7,7,29,no,research director,life sciences,16124
+906,1,2,1,0,0,0,34,no,research scientist,technical degree,2585
+907,5,26,22,3,10,9,44,no,manager,marketing,18213
+908,3,10,9,0,8,8,33,no,sales executive,marketing,8380
+909,1,1,1,0,1,0,19,no,research scientist,life sciences,2994
+910,1,1,1,0,1,0,23,no,research scientist,life sciences,1223
+911,1,1,1,1,0,0,25,yes,sales representative,life sciences,1118
+912,1,8,8,2,2,5,26,no,research scientist,life sciences,2875
+913,5,26,24,1,11,10,45,yes,manager,marketing,18824
+914,4,34,33,15,0,9,55,no,healthcare representative,medical,13577
+915,1,2,2,2,2,2,21,yes,laboratory technician,life sciences,2625
+916,5,26,11,0,8,4,46,no,manager,marketing,18789
+917,2,4,3,0,2,2,34,no,sales executive,marketing,4538
+918,5,31,29,11,10,10,51,no,manager,life sciences,19847
+919,3,25,9,5,4,7,59,no,manufacturing director,medical,10512
+920,2,15,11,5,10,8,34,no,laboratory technician,medical,4444
+921,1,5,4,0,2,2,28,no,laboratory technician,medical,2154
+922,5,26,25,14,13,9,44,no,manager,life sciences,19190
+923,2,14,10,1,8,9,34,no,human resources,life sciences,4490
+924,1,4,3,2,2,2,35,no,research scientist,life sciences,3506
+925,2,18,1,0,0,0,42,no,research scientist,medical,2372
+926,3,23,21,15,17,7,43,no,sales executive,marketing,10231
+927,2,18,16,5,12,14,36,no,manufacturing director,life sciences,5410
+928,3,10,10,0,5,7,44,yes,healthcare representative,medical,7978
+929,1,2,2,2,2,2,28,no,laboratory technician,life sciences,3867
+930,1,8,7,7,7,0,51,no,laboratory technician,medical,2838
+931,2,10,8,1,7,4,30,no,manufacturing director,medical,4695
+932,1,10,7,7,7,7,29,yes,laboratory technician,technical degree,3339
+933,1,5,3,1,2,2,28,no,research scientist,technical degree,2080
+934,1,2,2,2,1,2,25,no,research scientist,medical,2096
+935,2,10,10,0,8,7,32,no,sales executive,medical,6209
+936,5,22,0,0,0,0,45,no,manager,medical,18061
+937,4,21,19,15,2,9,39,no,manager,medical,17123
+938,1,2,2,2,2,2,58,no,research scientist,life sciences,2372
+939,2,10,10,1,1,4,32,yes,laboratory technician,life sciences,4883
+940,1,6,5,0,3,2,39,yes,research scientist,medical,3904
+941,2,10,9,6,7,2,30,no,laboratory technician,technical degree,4627
+942,3,10,7,1,7,7,36,no,healthcare representative,technical degree,7094
+943,1,10,7,5,7,6,46,no,human resources,life sciences,3423
+944,2,10,9,7,5,8,28,no,laboratory technician,life sciences,6674
+945,4,25,3,1,2,2,50,no,research director,life sciences,16880
+946,3,9,5,1,0,4,40,yes,sales executive,marketing,9094
+947,3,10,8,7,7,7,52,yes,sales executive,life sciences,8446
+948,3,9,9,0,8,1,30,no,manager,medical,11916
+949,2,9,8,1,7,7,39,no,manufacturing director,life sciences,4534
+950,3,10,10,9,6,8,31,no,sales executive,life sciences,9852
+951,2,19,19,11,9,2,41,no,sales executive,medical,6151
+952,1,3,3,2,2,2,31,yes,sales representative,life sciences,2302
+953,1,10,3,1,2,2,44,yes,laboratory technician,life sciences,2362
+954,4,21,20,2,10,8,42,no,manager,life sciences,17861
+955,5,23,19,9,11,9,55,no,manager,medical,19187
+956,5,36,7,7,7,3,56,no,manager,life sciences,19717
+957,1,6,4,0,0,2,40,no,research scientist,life sciences,3544
+958,3,10,9,1,6,7,34,no,healthcare representative,life sciences,8500
+959,2,9,9,8,8,8,40,no,research scientist,life sciences,4661
+960,2,10,9,1,7,3,41,no,sales executive,marketing,4103
+961,2,9,9,1,1,6,35,no,research scientist,life sciences,4249
+962,4,33,33,0,10,9,51,no,manager,life sciences,14026
+963,2,11,7,1,7,7,38,no,sales executive,life sciences,6893
+964,2,10,10,9,6,8,34,no,sales executive,medical,6125
+965,1,7,3,1,2,2,25,no,laboratory technician,medical,3669
+966,3,31,10,5,9,9,58,yes,manufacturing director,medical,10008
+967,1,7,4,0,3,2,40,no,laboratory technician,life sciences,2387
+968,2,17,15,6,13,7,36,no,sales executive,marketing,4639
+969,3,11,10,0,8,9,48,no,manufacturing director,life sciences,7898
+970,1,5,1,0,0,0,27,no,sales representative,medical,2534
+971,4,29,5,0,3,2,51,no,manufacturing director,technical degree,13142
+972,1,0,0,0,0,0,18,no,laboratory technician,life sciences,1611
+973,2,10,9,0,0,7,35,no,laboratory technician,medical,5363
+974,2,8,6,0,0,2,27,no,sales executive,life sciences,5071
+975,4,24,19,3,8,7,55,yes,sales executive,marketing,13695
+976,4,33,19,15,9,16,56,no,manufacturing director,life sciences,13402
+977,1,5,5,0,0,4,34,no,research scientist,technical degree,2029
+978,2,15,12,11,8,11,40,no,healthcare representative,medical,6377
+979,2,10,8,7,7,7,34,no,laboratory technician,medical,5429
+980,1,3,1,0,0,0,31,yes,sales representative,life sciences,2785
+981,2,5,4,3,2,2,35,yes,sales executive,marketing,4614
+982,1,4,4,0,3,2,38,no,research scientist,life sciences,2610
+983,2,14,14,4,11,11,34,no,healthcare representative,technical degree,6687
+984,2,5,5,0,4,3,28,no,sales executive,life sciences,4724
+985,2,10,10,6,7,2,31,yes,manufacturing director,medical,6179
+986,2,8,5,1,4,4,39,no,sales executive,life sciences,6120
+987,3,14,4,3,2,2,51,no,sales executive,marketing,10596
+988,2,12,6,3,3,2,41,no,research scientist,life sciences,5467
+989,1,8,6,1,3,4,37,no,research scientist,life sciences,2996
+990,2,8,5,1,2,4,33,no,sales executive,life sciences,9998
+991,2,4,3,1,2,2,32,no,sales executive,marketing,4078
+992,3,13,6,0,5,4,39,no,healthcare representative,life sciences,10920
+993,2,6,3,1,2,2,25,no,sales executive,life sciences,6232
+994,4,24,5,0,2,3,52,no,manufacturing director,medical,13247
+995,2,20,20,1,8,7,43,no,research scientist,medical,4081
+996,2,6,6,4,4,2,27,no,sales executive,marketing,5769
+997,1,8,8,7,7,2,27,yes,research scientist,life sciences,2394
+998,1,5,4,1,1,3,26,no,research scientist,medical,3904
+999,4,21,20,0,9,7,42,no,manager,human resources,16799
+1000,1,12,5,0,4,4,52,no,laboratory technician,other,2950
+1001,1,8,3,0,2,2,37,no,laboratory technician,medical,3629
+1002,3,10,2,2,2,2,35,no,manufacturing director,life sciences,9362
+1003,1,7,3,0,2,2,25,no,laboratory technician,technical degree,3229
+1004,1,8,7,0,7,7,26,no,laboratory technician,other,3578
+1005,3,10,10,0,9,9,29,no,human resources,other,7988
+1006,2,20,4,1,3,3,49,yes,laboratory technician,life sciences,4284
+1007,3,9,8,7,7,7,29,yes,healthcare representative,other,7553
+1008,4,29,20,12,7,7,54,no,research director,medical,17328
+1009,5,32,9,1,5,8,58,no,research director,medical,19701
+1010,4,31,7,0,0,7,55,no,research director,medical,14732
+1011,2,15,5,0,1,4,36,no,sales executive,marketing,9278
+1012,1,1,1,0,0,0,31,yes,sales representative,life sciences,1359
+1013,2,8,3,0,2,2,30,no,sales executive,marketing,4779
+1014,4,9,3,1,0,2,31,no,research director,life sciences,16422
+1015,1,10,4,1,3,3,34,no,research scientist,other,2996
+1016,1,1,1,0,0,0,31,yes,research scientist,life sciences,1261
+1017,1,6,5,1,4,0,27,no,laboratory technician,life sciences,2099
+1018,2,10,10,1,8,4,36,no,laboratory technician,life sciences,5810
+1019,2,11,3,0,2,2,36,no,sales executive,marketing,5647
+1020,1,17,6,1,2,5,47,no,research scientist,technical degree,3420
+1021,1,6,3,2,2,2,25,yes,sales representative,life sciences,4400
+1022,1,7,6,1,3,5,37,no,laboratory technician,technical degree,3500
+1023,1,5,3,1,0,2,56,no,research scientist,life sciences,2066
+1024,4,26,20,5,6,17,47,no,research director,medical,17169
+1025,2,5,5,0,3,4,24,no,sales executive,medical,4162
+1026,2,7,4,0,3,3,32,no,sales executive,marketing,9204
+1027,1,7,5,0,2,4,34,no,laboratory technician,life sciences,3294
+1028,1,7,4,0,3,2,41,no,research scientist,medical,2127
+1029,2,11,8,0,7,7,40,no,laboratory technician,other,3975
+1030,3,13,13,9,9,7,31,no,sales executive,life sciences,10793
+1031,3,28,7,4,3,7,46,yes,sales executive,marketing,10096
+1032,1,11,1,0,0,0,39,yes,laboratory technician,life sciences,3646
+1033,3,10,10,4,7,8,31,yes,manufacturing director,life sciences,7446
+1034,3,24,7,0,7,7,45,no,healthcare representative,medical,10851
+1035,1,8,3,0,2,2,31,no,human resources,medical,2109
+1036,1,7,2,2,2,2,31,yes,laboratory technician,life sciences,3722
+1037,3,10,3,1,2,1,45,no,manufacturing director,technical degree,9380
+1038,2,15,2,2,2,2,48,no,sales executive,marketing,5486
+1039,1,2,2,2,2,2,34,yes,human resources,technical degree,2742
+1040,3,16,9,4,8,8,40,no,research director,medical,13757
+1041,2,6,5,1,3,4,28,no,sales executive,medical,8463
+1042,1,7,5,0,3,2,44,no,laboratory technician,life sciences,3162
+1043,4,35,9,8,8,8,53,no,research director,medical,16598
+1044,2,20,3,1,2,2,49,no,healthcare representative,technical degree,6651
+1045,1,8,3,1,2,1,40,no,research scientist,medical,2345
+1046,1,6,5,1,3,2,44,no,research scientist,life sciences,3420
+1047,2,5,4,0,3,3,33,no,sales executive,medical,4373
+1048,2,15,13,3,12,9,34,no,sales executive,other,4759
+1049,2,4,2,2,2,1,30,no,sales executive,life sciences,5301
+1050,1,12,12,5,8,9,42,no,laboratory technician,medical,3673
+1051,2,11,1,0,0,0,44,no,sales executive,marketing,4768
+1052,1,1,1,0,0,0,30,no,research scientist,technical degree,1274
+1053,2,13,12,2,8,9,57,no,research scientist,life sciences,4900
+1054,3,29,8,0,7,7,49,no,healthcare representative,life sciences,10466
+1055,4,16,14,6,9,8,34,no,research director,medical,17007
+1056,1,5,3,1,2,2,28,yes,sales representative,technical degree,2909
+1057,2,7,5,0,0,3,29,yes,sales executive,technical degree,5765
+1058,2,16,15,10,10,9,34,yes,sales executive,medical,4599
+1059,1,1,1,0,0,0,35,no,sales representative,life sciences,2404
+1060,1,4,0,0,0,0,24,yes,laboratory technician,medical,3172
+1061,1,1,1,0,0,0,24,no,sales representative,life sciences,2033
+1062,3,16,2,2,2,2,44,no,manufacturing director,medical,10209
+1063,2,10,10,0,4,7,29,no,sales executive,life sciences,8620
+1064,1,6,5,1,3,3,30,no,human resources,life sciences,2064
+1065,2,4,3,1,2,2,55,no,healthcare representative,life sciences,4035
+1066,1,8,5,0,2,4,33,no,laboratory technician,medical,3838
+1067,2,11,5,1,2,4,47,no,sales executive,medical,4591
+1068,1,8,0,0,0,0,28,yes,laboratory technician,medical,2561
+1069,1,1,1,0,0,0,28,no,research scientist,life sciences,1563
+1070,2,5,4,1,3,2,28,no,sales executive,life sciences,4898
+1071,2,10,3,1,2,2,49,no,laboratory technician,medical,4789
+1072,1,4,3,0,2,2,29,no,laboratory technician,life sciences,3180
+1073,2,8,8,1,7,6,28,no,manufacturing director,life sciences,6549
+1074,2,14,0,0,0,0,33,no,healthcare representative,life sciences,6388
+1075,3,10,5,0,0,2,32,no,manager,medical,11244
+1076,4,26,14,1,12,9,54,no,manager,medical,16032
+1077,1,11,9,0,7,7,29,yes,research scientist,technical degree,2362
+1078,4,24,20,14,17,6,44,no,research director,life sciences,16328
+1079,3,9,2,2,2,0,39,no,manufacturing director,life sciences,8376
+1080,4,23,13,5,1,12,46,no,manager,life sciences,16606
+1081,3,11,11,3,3,8,35,no,healthcare representative,life sciences,8606
+1082,2,5,4,1,2,3,23,no,laboratory technician,life sciences,2272
+1083,1,15,5,1,0,4,40,yes,laboratory technician,life sciences,2018
+1084,3,10,10,8,6,9,34,no,sales executive,technical degree,7083
+1085,1,7,7,7,7,2,31,yes,research scientist,life sciences,4084
+1086,4,32,32,13,9,6,50,no,research director,medical,14411
+1087,1,12,11,5,7,10,34,no,sales representative,technical degree,2308
+1088,1,4,1,0,0,0,42,no,laboratory technician,medical,4841
+1089,2,10,10,3,7,8,37,no,research scientist,medical,4285
+1090,2,9,7,0,7,7,29,no,healthcare representative,other,9715
+1091,2,5,5,0,2,3,33,no,manufacturing director,life sciences,4320
+1092,1,8,5,0,3,4,45,no,research scientist,technical degree,2132
+1093,3,24,20,13,9,8,42,no,healthcare representative,life sciences,10124
+1094,2,9,8,7,1,4,40,no,sales executive,medical,5473
+1095,2,15,15,5,7,14,33,no,laboratory technician,life sciences,5207
+1096,4,21,21,7,7,7,40,no,manager,medical,16437
+1097,1,2,1,0,0,1,24,no,laboratory technician,technical degree,2296
+1098,2,8,2,2,2,2,40,no,healthcare representative,life sciences,4069
+1099,3,10,10,7,7,8,45,no,healthcare representative,technical degree,7441
+1100,1,6,5,4,2,3,35,no,sales representative,life sciences,2430
+1101,2,12,7,2,5,1,32,no,research scientist,life sciences,5878
+1102,1,7,3,1,2,2,36,no,sales representative,life sciences,2644
+1103,2,18,8,7,7,7,48,no,sales executive,life sciences,6439
+1104,1,5,1,0,0,0,29,no,research scientist,life sciences,2451
+1105,2,8,2,2,2,2,33,no,sales executive,life sciences,6392
+1106,2,10,10,6,7,8,30,yes,sales executive,life sciences,9714
+1107,2,10,6,1,2,3,38,no,human resources,human resources,6077
+1108,1,3,3,1,2,0,35,no,laboratory technician,medical,2450
+1109,3,9,4,1,3,2,30,no,sales executive,technical degree,9250
+1110,1,1,1,0,0,0,35,yes,laboratory technician,life sciences,2074
+1111,3,34,33,1,9,7,53,yes,manufacturing director,technical degree,10169
+1112,2,7,5,1,4,2,38,yes,manufacturing director,medical,4855
+1113,2,9,6,1,2,5,32,no,research scientist,technical degree,4087
+1114,1,10,8,7,6,2,48,no,research scientist,other,2367
+1115,1,1,1,0,0,0,34,no,research scientist,medical,2972
+1116,5,36,36,2,13,6,55,no,manager,marketing,19586
+1117,2,9,2,2,1,2,34,no,research scientist,life sciences,5484
+1118,1,1,1,0,0,0,26,no,research scientist,life sciences,2061
+1119,2,10,9,7,7,8,38,no,sales executive,life sciences,9924
+1120,2,8,3,1,2,2,38,no,sales executive,life sciences,4198
+1121,2,15,1,0,0,0,36,no,sales executive,life sciences,6815
+1122,1,10,10,1,5,9,29,no,laboratory technician,medical,4723
+1123,2,10,5,0,4,2,35,no,healthcare representative,medical,6142
+1124,3,11,7,7,6,6,39,no,sales executive,medical,8237
+1125,2,6,6,1,3,4,29,no,healthcare representative,life sciences,8853
+1126,5,27,1,0,0,0,50,no,manager,marketing,19331
+1127,1,4,2,2,2,2,23,no,research scientist,technical degree,2073
+1128,2,9,3,0,2,2,36,no,laboratory technician,life sciences,5562
+1129,5,24,1,0,1,0,42,no,manager,other,19613
+1130,2,10,10,6,8,9,35,no,laboratory technician,life sciences,3407
+1131,2,8,8,7,7,2,34,no,healthcare representative,technical degree,5063
+1132,2,5,5,1,2,4,40,no,sales executive,life sciences,4639
+1133,1,8,6,0,2,4,43,no,laboratory technician,technical degree,4876
+1134,1,1,1,0,1,0,35,no,laboratory technician,life sciences,2690
+1135,4,27,26,0,12,0,46,no,manager,life sciences,17567
+1136,1,1,1,0,0,1,28,yes,laboratory technician,medical,2408
+1137,1,4,4,1,3,2,22,no,research scientist,other,2814
+1138,4,32,30,12,13,8,50,no,healthcare representative,medical,11245
+1139,1,6,3,0,2,2,32,no,research scientist,other,3312
+1140,5,23,22,1,10,7,44,no,research director,medical,19049
+1141,1,6,6,1,1,4,30,no,research scientist,medical,2141
+1142,2,10,10,1,4,7,45,no,laboratory technician,medical,5769
+1143,2,10,10,4,5,7,45,no,sales executive,marketing,4385
+1144,2,10,5,0,3,2,31,no,sales executive,other,5332
+1145,2,7,3,1,1,2,36,no,manufacturing director,life sciences,4663
+1146,2,9,9,7,2,7,34,no,manufacturing director,life sciences,4724
+1147,1,10,9,1,4,6,49,no,laboratory technician,life sciences,3211
+1148,2,10,7,7,7,7,39,no,manufacturing director,medical,5377
+1149,1,7,7,0,7,7,27,no,laboratory technician,other,4066
+1150,2,16,16,1,10,15,35,no,research scientist,life sciences,5208
+1151,2,6,5,0,0,3,28,no,manufacturing director,medical,4877
+1152,1,3,2,2,2,2,21,no,research scientist,medical,3117
+1153,1,0,0,0,0,0,18,yes,sales representative,medical,1569
+1154,5,27,5,1,0,2,47,no,manager,life sciences,19658
+1155,2,11,10,0,7,8,39,no,laboratory technician,medical,3069
+1156,3,18,18,14,12,15,40,no,manufacturing director,life sciences,10435
+1157,2,15,14,2,9,11,35,no,healthcare representative,life sciences,4148
+1158,2,9,4,0,2,3,37,no,manufacturing director,life sciences,5768
+1159,2,10,9,3,8,2,39,no,manufacturing director,medical,5042
+1160,2,10,10,3,9,7,45,no,manufacturing director,other,5770
+1161,3,10,5,0,2,4,38,no,manufacturing director,medical,7756
+1162,3,15,13,6,0,12,35,yes,sales executive,medical,10306
+1163,1,8,8,7,7,4,37,no,research scientist,medical,3936
+1164,3,18,4,3,3,2,40,no,manufacturing director,life sciences,7945
+1165,2,14,10,0,2,7,44,no,human resources,human resources,5743
+1166,4,23,2,2,2,2,48,no,manager,medical,15202
+1167,2,7,2,2,2,2,35,yes,sales executive,medical,5440
+1168,1,6,6,1,3,3,24,no,research scientist,technical degree,3760
+1169,1,5,3,0,2,2,27,no,research scientist,medical,3517
+1170,1,6,4,1,2,2,27,no,research scientist,medical,2580
+1171,1,10,4,0,3,2,40,yes,laboratory technician,life sciences,2166
+1172,2,8,5,1,4,2,29,no,sales executive,medical,5869
+1173,3,9,3,0,2,2,36,no,healthcare representative,life sciences,8008
+1174,2,7,7,0,7,7,25,no,manufacturing director,life sciences,5206
+1175,2,7,5,1,0,4,39,no,manufacturing director,medical,5295
+1176,4,27,4,1,2,2,49,no,research director,other,16413
+1177,3,19,14,1,11,11,50,no,research director,life sciences,13269
+1178,1,2,2,2,2,2,20,no,sales representative,medical,2783
+1179,2,11,11,7,9,8,34,no,research scientist,life sciences,5433
+1180,1,15,4,1,3,3,36,no,laboratory technician,life sciences,2013
+1181,4,30,15,2,12,11,49,no,healthcare representative,life sciences,13966
+1182,2,4,3,1,2,2,36,no,manufacturing director,medical,4374
+1183,2,13,5,0,4,4,36,no,healthcare representative,life sciences,6842
+1184,4,36,10,4,7,8,54,no,manager,medical,17426
+1185,4,14,14,6,11,10,43,no,research director,life sciences,17603
+1186,2,13,11,6,7,9,35,yes,sales executive,other,4581
+1187,2,19,13,2,9,11,38,no,research scientist,life sciences,4735
+1188,2,10,10,0,9,0,29,no,sales executive,medical,4187
+1189,2,6,6,0,4,2,33,no,sales executive,medical,5505
+1190,2,10,9,1,6,5,32,no,research scientist,medical,5470
+1191,2,10,10,0,2,0,31,no,sales executive,life sciences,5476
+1192,1,17,2,2,2,2,49,no,laboratory technician,medical,2587
+1193,1,4,4,3,3,3,38,no,laboratory technician,medical,2440
+1194,4,29,3,1,2,2,47,no,manager,life sciences,15972
+1195,4,23,8,0,0,7,49,no,manager,life sciences,15379
+1196,3,21,2,0,2,0,41,no,sales executive,life sciences,7082
+1197,1,2,2,0,2,2,20,no,sales representative,life sciences,2728
+1198,2,7,6,1,2,5,33,no,sales executive,life sciences,5368
+1199,2,10,3,0,2,2,36,no,healthcare representative,life sciences,5347
+1200,1,8,2,2,2,2,44,no,human resources,life sciences,3195
+1201,1,5,5,1,2,4,23,yes,laboratory technician,medical,3989
+1202,1,7,0,0,0,0,38,no,laboratory technician,medical,3306
+1203,3,11,4,1,2,3,53,no,healthcare representative,medical,7005
+1204,1,19,9,7,7,7,48,yes,sales representative,medical,2655
+1205,1,1,1,0,0,0,32,yes,laboratory technician,life sciences,1393
+1206,1,7,7,5,7,7,26,no,laboratory technician,medical,2570
+1207,1,8,4,1,2,2,55,no,research scientist,technical degree,3537
+1208,2,15,15,4,13,10,34,no,laboratory technician,medical,3986
+1209,3,19,1,0,0,0,60,no,healthcare representative,medical,10883
+1210,1,14,14,2,13,11,33,no,laboratory technician,medical,2028
+1211,2,6,6,1,3,3,37,no,sales executive,medical,9525
+1212,1,10,10,8,7,9,34,no,research scientist,life sciences,2929
+1213,1,3,3,0,2,2,23,yes,sales representative,life sciences,2275
+1214,3,9,8,6,7,7,44,no,healthcare representative,life sciences,7879
+1215,1,6,5,1,4,4,35,no,research scientist,medical,4930
+1216,2,10,10,8,8,9,43,no,sales executive,medical,7847
+1217,1,5,5,0,4,3,24,no,research scientist,medical,4401
+1218,3,10,10,8,7,8,41,no,sales executive,marketing,9241
+1219,1,9,5,1,2,3,29,no,laboratory technician,medical,2974
+1220,2,17,13,6,7,7,36,no,sales representative,life sciences,4502
+1221,3,25,23,14,4,15,45,no,healthcare representative,life sciences,10748
+1222,1,1,1,0,0,0,24,yes,human resources,human resources,1555
+1223,4,25,23,14,10,5,47,yes,sales executive,life sciences,12936
+1224,1,3,3,0,2,2,26,no,laboratory technician,medical,2305
+1225,4,21,21,8,6,6,45,no,research director,technical degree,16704
+1226,1,10,5,1,3,2,32,no,research scientist,life sciences,3433
+1227,1,6,5,0,3,2,31,no,laboratory technician,life sciences,3477
+1228,2,10,3,1,2,2,41,no,human resources,human resources,6430
+1229,2,18,1,0,0,0,40,no,manufacturing director,life sciences,6516
+1230,1,6,6,1,2,2,24,no,laboratory technician,medical,3907
+1231,2,19,10,0,9,7,46,no,healthcare representative,life sciences,5562
+1232,2,17,7,0,7,7,35,no,manufacturing director,life sciences,6883
+1233,1,10,10,0,8,0,30,no,research scientist,life sciences,2862
+1234,2,4,1,0,0,0,47,no,sales executive,marketing,4978
+1235,3,13,10,0,3,6,46,no,sales executive,life sciences,10368
+1236,2,16,2,2,2,2,36,yes,sales executive,marketing,6134
+1237,2,10,0,0,0,0,32,yes,sales executive,life sciences,6735
+1238,1,3,3,1,2,2,23,no,laboratory technician,medical,3295
+1239,2,9,5,1,4,4,31,no,manufacturing director,technical degree,5238
+1240,2,9,9,5,8,8,39,no,laboratory technician,life sciences,6472
+1241,3,10,4,0,2,3,32,no,sales executive,life sciences,9610
+1242,5,21,21,12,8,8,40,no,manager,medical,19833
+1243,3,9,5,0,3,0,45,no,human resources,life sciences,9756
+1244,1,10,9,0,7,7,30,no,research scientist,technical degree,4968
+1245,1,3,2,2,1,2,24,no,human resources,medical,2145
+1246,1,6,4,1,2,2,30,yes,human resources,human resources,2180
+1247,2,6,5,0,2,2,31,no,sales executive,technical degree,8346
+1248,1,6,6,1,4,2,27,no,research scientist,medical,3445
+1249,1,2,2,2,2,2,29,yes,sales representative,marketing,2760
+1250,2,10,3,0,2,2,29,no,healthcare representative,life sciences,6294
+1251,3,12,7,1,7,7,30,no,sales executive,marketing,7140
+1252,1,6,5,1,2,0,34,no,research scientist,medical,2932
+1253,2,13,11,1,7,7,33,no,sales executive,marketing,5147
+1254,2,8,5,0,4,1,49,no,sales executive,marketing,4507
+1255,3,11,0,0,0,0,33,yes,sales executive,life sciences,8564
+1256,1,9,6,0,5,1,38,no,laboratory technician,medical,2468
+1257,3,10,1,0,0,0,31,yes,sales executive,marketing,8161
+1258,1,1,1,0,0,0,29,no,research scientist,technical degree,2109
+1259,2,10,7,1,7,0,30,no,healthcare representative,life sciences,5294
+1260,1,12,7,0,7,7,32,no,research scientist,technical degree,2718
+1261,2,15,1,1,0,0,38,no,healthcare representative,medical,5811
+1262,1,6,1,0,0,0,43,yes,research scientist,technical degree,2437
+1263,1,7,5,0,4,3,42,no,laboratory technician,medical,2766
+1264,5,34,1,0,0,0,55,no,research director,medical,19038
+1265,2,11,9,1,7,8,33,no,research scientist,technical degree,3055
+1266,1,5,5,0,4,3,41,no,laboratory technician,life sciences,2289
+1267,2,15,15,0,7,14,34,no,sales executive,life sciences,4001
+1268,4,27,3,0,2,2,53,no,manufacturing director,medical,12965
+1269,1,10,9,1,8,7,43,no,human resources,life sciences,3539
+1270,2,6,2,2,2,2,34,no,sales executive,life sciences,6029
+1271,1,1,1,1,0,0,21,yes,sales representative,marketing,2679
+1272,1,5,5,0,4,4,38,no,laboratory technician,other,3702
+1273,1,1,1,0,0,0,22,yes,laboratory technician,medical,2398
+1274,2,13,12,5,7,7,31,no,sales executive,marketing,5468
+1275,3,15,2,2,2,2,51,no,manager,technical degree,13116
+1276,2,5,5,0,3,2,37,no,sales executive,marketing,4189
+1277,5,24,2,2,2,1,46,no,research director,medical,19328
+1278,3,15,12,5,7,8,36,no,healthcare representative,life sciences,8321
+1279,1,6,5,2,3,3,44,yes,research scientist,medical,2342
+1280,2,19,10,4,7,0,37,no,human resources,other,4071
+1281,2,10,10,7,7,7,35,yes,sales executive,life sciences,5813
+1282,1,14,10,7,6,8,33,no,research scientist,life sciences,3143
+1283,1,5,5,0,3,3,28,no,research scientist,life sciences,2044
+1284,3,9,4,2,2,3,39,no,research director,medical,13464
+1285,2,6,2,2,2,2,46,no,sales executive,life sciences,7991
+1286,1,7,4,0,2,3,40,no,laboratory technician,life sciences,3377
+1287,2,10,0,0,0,0,42,no,healthcare representative,medical,5538
+1288,2,15,7,1,7,7,35,no,manufacturing director,medical,5762
+1289,1,13,11,3,8,10,38,no,human resources,human resources,2592
+1290,2,11,7,0,7,1,34,yes,laboratory technician,life sciences,5346
+1291,2,10,10,0,8,3,37,yes,manufacturing director,medical,4213
+1292,2,7,2,2,2,1,39,no,sales executive,life sciences,4127
+1293,1,7,3,1,2,2,43,no,research scientist,life sciences,2438
+1294,2,11,3,1,2,2,41,no,healthcare representative,life sciences,6870
+1295,3,23,22,13,5,14,41,no,sales executive,marketing,10447
+1296,3,9,7,0,2,7,30,no,manufacturing director,medical,9667
+1297,1,6,5,1,4,1,26,yes,human resources,medical,2148
+1298,2,13,9,3,7,7,46,yes,healthcare representative,medical,8926
+1299,2,12,5,0,3,3,40,no,healthcare representative,life sciences,6513
+1300,2,10,10,4,8,8,34,no,sales executive,technical degree,6799
+1301,4,37,16,14,14,9,58,no,manager,medical,16291
+1302,1,6,5,0,3,4,35,no,laboratory technician,medical,2705
+1303,3,28,22,14,10,11,47,no,manufacturing director,life sciences,10333
+1304,2,15,7,7,7,4,40,no,healthcare representative,life sciences,4448
+1305,2,14,7,1,7,1,54,no,research scientist,medical,6854
+1306,3,9,3,2,2,2,31,no,sales executive,marketing,9637
+1307,1,3,3,1,2,2,28,no,research scientist,medical,3591
+1308,2,20,4,0,3,2,38,no,sales representative,marketing,5405
+1309,2,5,5,1,2,3,26,no,sales executive,medical,4684
+1310,4,23,2,2,2,2,58,no,research director,life sciences,15787
+1311,1,0,0,0,0,0,18,no,research scientist,medical,1514
+1312,1,2,1,0,0,0,31,yes,human resources,human resources,2956
+1313,1,4,2,2,0,2,29,yes,human resources,human resources,2335
+1314,2,10,8,5,7,7,45,no,sales executive,life sciences,5154
+1315,2,15,1,0,0,0,36,no,research scientist,other,6962
+1316,2,7,7,7,7,7,43,no,sales executive,life sciences,5675
+1317,1,6,5,0,2,4,27,no,laboratory technician,life sciences,2379
+1318,1,11,11,3,10,8,29,no,laboratory technician,medical,3812
+1319,2,4,0,0,0,0,32,no,sales executive,marketing,4648
+1320,1,10,6,3,3,3,42,no,research scientist,technical degree,2936
+1321,1,7,2,2,0,2,47,no,laboratory technician,life sciences,2105
+1322,3,12,9,4,7,8,46,no,manufacturing director,life sciences,8578
+1323,1,3,3,2,2,2,28,no,human resources,life sciences,2706
+1324,2,11,7,1,6,0,29,no,healthcare representative,life sciences,6384
+1325,1,8,0,0,0,0,42,no,laboratory technician,life sciences,3968
+1326,2,7,2,2,2,2,32,yes,sales executive,marketing,9907
+1327,4,25,19,2,8,17,46,no,sales executive,technical degree,13225
+1328,2,9,9,5,8,8,27,no,sales representative,medical,3540
+1329,1,1,1,0,0,0,29,no,human resources,medical,2804
+1330,5,21,16,6,14,12,43,no,manager,medical,19392
+1331,5,29,22,12,9,10,48,no,research director,life sciences,19665
+1332,1,1,1,1,0,0,29,yes,research scientist,life sciences,2439
+1333,3,14,8,0,7,7,46,yes,sales executive,life sciences,7314
+1334,1,8,7,7,3,6,27,no,research scientist,life sciences,4774
+1335,2,7,2,2,2,2,39,no,research scientist,other,3902
+1336,1,19,5,0,4,2,55,no,research scientist,technical degree,2662
+1337,1,1,1,0,0,0,28,no,sales representative,medical,2856
+1338,1,1,1,0,0,0,30,yes,sales representative,medical,1081
+1339,1,1,1,0,0,0,22,yes,research scientist,life sciences,2472
+1340,2,10,10,1,7,9,36,no,sales executive,technical degree,5673
+1341,2,10,10,0,2,8,31,no,laboratory technician,life sciences,4197
+1342,3,9,5,1,0,3,34,no,sales executive,life sciences,9713
+1343,1,11,3,1,2,2,29,no,laboratory technician,life sciences,2062
+1344,2,16,5,0,4,3,37,no,research scientist,medical,4284
+1345,2,4,3,0,2,2,35,no,manufacturing director,other,4788
+1346,2,10,9,3,8,8,45,no,manufacturing director,life sciences,5906
+1347,2,10,10,0,8,1,36,no,human resources,human resources,3886
+1348,4,22,19,11,16,7,40,no,manager,life sciences,16823
+1349,1,1,1,1,0,0,26,no,research scientist,life sciences,2933
+1350,2,9,8,0,7,7,27,no,sales executive,medical,6500
+1351,4,24,22,4,7,17,48,no,manager,medical,17174
+1352,2,10,2,2,2,0,44,no,healthcare representative,life sciences,5033
+1353,1,5,5,3,0,2,34,yes,research scientist,technical degree,2307
+1354,1,5,4,1,0,2,56,yes,laboratory technician,life sciences,2587
+1355,2,12,4,1,3,2,36,no,sales executive,marketing,5507
+1356,2,14,5,1,4,4,41,no,sales executive,marketing,4393
+1357,3,18,13,5,7,7,42,no,research director,medical,13348
+1358,2,8,5,1,4,2,31,no,sales executive,medical,6583
+1359,2,9,4,0,1,2,34,no,sales executive,medical,8103
+1360,1,4,2,2,2,2,31,no,laboratory technician,medical,3978
+1361,1,8,7,7,7,7,26,no,laboratory technician,other,2544
+1362,2,12,4,0,3,2,45,no,healthcare representative,medical,5399
+1363,2,10,10,0,9,4,33,no,sales executive,marketing,5487
+1364,2,7,7,0,7,7,28,no,sales executive,life sciences,6834
+1365,1,1,1,0,0,0,29,yes,sales representative,technical degree,1091
+1366,2,10,3,1,2,2,39,no,sales executive,life sciences,5736
+1367,1,6,5,1,2,3,27,no,research scientist,technical degree,2226
+1368,2,16,15,6,11,10,34,no,research scientist,other,5747
+1369,2,6,2,2,2,0,28,yes,sales executive,marketing,9854
+1370,2,16,8,1,7,7,47,no,research scientist,technical degree,5467
+1371,2,6,0,0,0,0,56,no,sales executive,marketing,5380
+1372,2,10,10,7,9,0,39,no,manufacturing director,medical,5151
+1373,2,20,20,0,7,11,38,no,research scientist,medical,2133
+1374,4,29,1,0,0,0,58,no,manager,life sciences,17875
+1375,1,8,4,0,3,1,32,yes,research scientist,life sciences,2432
+1376,1,10,5,0,3,2,38,no,research scientist,life sciences,4771
+1377,5,28,5,4,3,4,49,no,research director,life sciences,19161
+1378,2,14,0,0,0,0,42,no,sales executive,marketing,5087
+1379,1,1,1,0,0,0,27,yes,human resources,human resources,2863
+1380,2,6,5,0,4,3,35,no,sales executive,medical,5561
+1381,1,5,5,1,4,3,28,no,research scientist,medical,2144
+1382,1,4,4,2,3,2,31,no,research scientist,medical,3065
+1383,1,5,5,0,2,4,36,no,laboratory technician,life sciences,2810
+1384,3,14,14,2,1,8,34,no,sales executive,marketing,9888
+1385,3,9,8,1,1,7,34,no,sales executive,medical,8628
+1386,1,8,7,7,6,7,26,no,laboratory technician,medical,2867
+1387,2,6,5,0,2,3,29,no,healthcare representative,life sciences,5373
+1388,2,9,5,1,2,1,32,no,healthcare representative,medical,6667
+1389,2,10,10,8,7,8,31,no,research scientist,life sciences,5003
+1390,1,6,4,0,3,1,28,yes,laboratory technician,technical degree,2367
+1391,1,20,1,0,0,0,38,no,sales representative,life sciences,2858
+1392,2,10,10,0,9,8,35,no,sales executive,life sciences,5204
+1393,2,7,7,0,7,7,27,no,sales executive,marketing,4105
+1394,2,8,1,0,0,0,32,no,manufacturing director,life sciences,9679
+1395,2,10,10,0,8,7,31,yes,sales executive,marketing,5617
+1396,3,15,2,2,2,2,53,yes,sales executive,life sciences,10448
+1397,2,9,4,2,3,3,54,no,research scientist,life sciences,2897
+1398,2,9,9,2,8,7,33,no,healthcare representative,life sciences,5968
+1399,3,10,10,0,9,9,43,no,healthcare representative,life sciences,7510
+1400,1,7,6,1,2,2,38,no,human resources,other,2991
+1401,5,35,10,1,4,9,55,no,manager,human resources,19636
+1402,1,1,1,0,0,0,31,no,laboratory technician,medical,1129
+1403,4,21,20,11,10,8,39,no,sales executive,marketing,13341
+1404,2,20,20,3,7,9,42,no,research scientist,life sciences,4332
+1405,3,13,11,4,8,7,31,no,research director,medical,11031
+1406,2,9,5,1,4,2,54,no,manufacturing director,medical,4440
+1407,2,4,4,1,2,3,24,no,healthcare representative,life sciences,4617
+1408,1,5,5,1,4,2,23,no,laboratory technician,other,2647
+1409,2,10,10,9,4,9,40,no,laboratory technician,technical degree,6323
+1410,2,15,11,5,10,8,40,no,sales executive,marketing,5677
+1411,1,6,2,1,2,0,25,no,human resources,human resources,2187
+1412,1,12,12,1,7,8,30,no,laboratory technician,medical,3748
+1413,1,7,2,0,2,2,25,no,laboratory technician,other,3977
+1414,3,25,17,12,11,14,47,no,healthcare representative,medical,8633
+1415,1,1,1,0,0,1,33,no,laboratory technician,medical,2008
+1416,2,16,15,5,8,13,38,no,sales executive,life sciences,4440
+1417,1,3,2,1,2,2,31,no,sales representative,life sciences,3067
+1418,2,10,8,7,7,3,38,no,manufacturing director,life sciences,5321
+1419,2,9,4,1,2,3,42,no,research scientist,life sciences,5410
+1420,1,12,5,1,0,3,41,no,research scientist,life sciences,2782
+1421,3,14,13,5,12,8,47,no,research director,medical,11957
+1422,1,5,2,2,2,2,35,no,laboratory technician,medical,2660
+1423,1,4,3,1,2,2,22,no,research scientist,life sciences,3375
+1424,2,10,10,0,8,7,35,no,research scientist,medical,5098
+1425,2,10,9,8,1,7,33,no,healthcare representative,medical,4878
+1426,1,6,6,4,1,2,32,no,laboratory technician,life sciences,2837
+1427,1,8,1,0,0,0,40,no,laboratory technician,life sciences,2406
+1428,1,3,2,2,2,2,32,no,sales representative,medical,2269
+1429,2,18,7,1,7,7,39,no,research scientist,life sciences,4108
+1430,3,20,18,1,11,16,38,no,research director,medical,13206
+1431,3,14,14,5,7,10,32,no,sales executive,marketing,10422
+1432,3,16,16,6,8,11,37,no,research director,life sciences,13744
+1433,2,6,5,0,4,3,25,no,sales executive,other,4907
+1434,1,16,9,0,0,8,52,no,sales representative,life sciences,3482
+1435,1,6,4,1,2,3,44,no,research scientist,medical,2436
+1436,1,2,2,1,2,2,21,no,sales representative,medical,2380
+1437,5,21,6,1,3,0,39,no,manager,life sciences,19431
+1438,1,1,1,1,0,0,23,yes,sales representative,marketing,1790
+1439,3,10,9,3,4,7,36,no,sales executive,medical,7644
+1440,2,18,4,0,2,2,36,no,manufacturing director,life sciences,5131
+1441,2,13,13,1,9,12,56,no,healthcare representative,life sciences,6306
+1442,1,4,2,2,2,2,29,yes,research scientist,medical,4787
+1443,5,24,22,4,14,6,42,no,manager,life sciences,18880
+1444,1,14,10,9,8,9,56,yes,laboratory technician,technical degree,2339
+1445,4,21,20,0,10,7,41,no,manufacturing director,life sciences,13570
+1446,2,8,8,1,7,7,34,no,sales executive,marketing,6712
+1447,2,15,15,11,11,12,36,no,sales executive,marketing,5406
+1448,2,14,5,0,4,4,41,no,sales executive,life sciences,8938
+1449,1,4,4,1,2,2,32,no,research scientist,technical degree,2439
+1450,3,9,9,1,7,0,35,no,human resources,life sciences,8837
+1451,2,10,10,1,9,7,38,no,sales executive,life sciences,5343
+1452,2,12,6,0,1,3,50,yes,sales executive,life sciences,6728
+1453,2,8,6,0,0,3,36,no,sales executive,marketing,6652
+1454,2,8,5,0,1,3,45,no,sales executive,life sciences,4850
+1455,1,8,2,2,2,2,40,no,research scientist,life sciences,2809
+1456,2,10,10,0,2,2,35,no,healthcare representative,life sciences,5689
+1457,1,20,5,0,2,3,40,no,research scientist,medical,2001
+1458,1,4,4,1,1,3,35,no,research scientist,life sciences,2977
+1459,2,10,4,0,3,3,29,no,laboratory technician,other,4025
+1460,1,5,5,0,4,4,29,no,research scientist,medical,3785
+1461,3,20,3,2,0,2,50,yes,sales executive,marketing,10854
+1462,4,21,20,9,6,9,39,no,sales executive,marketing,12031
+1463,2,10,9,1,7,4,31,no,manufacturing director,medical,9936
+1464,1,5,4,0,0,2,26,no,sales representative,other,2966
+1465,2,17,5,0,3,2,36,no,laboratory technician,medical,2571
+1466,3,9,7,1,7,7,39,no,healthcare representative,medical,9991
+1467,2,6,6,0,3,2,27,no,manufacturing director,life sciences,6142
+1468,2,17,9,0,8,6,49,no,sales executive,medical,5390
+1469,2,6,4,1,2,3,34,no,laboratory technician,medical,4404
