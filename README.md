@@ -16,9 +16,9 @@ Engineer a regression model to predict the monthly incomes of different employee
 
 # Summary of Model Performance
 
-Training Score: 0.9621  (adjusted r-sqaured)
+Training Score: 0.9621 (r-sqaured)
 
-Testing Score: 0.9479 (adjusted r-sqaured)
+Testing Score: 0.9479 (r-sqaured)
 
 Below is a distribution of actual vs. predicted values. As you can see, the model can predict monthly incomes on the testing set quite well. Furthermore, there are no signs of overfitting.
 
